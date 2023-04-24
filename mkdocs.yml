@@ -1,0 +1,9 @@
+site_name: PyTexas Conference Runbooks
+theme: material
+nav:
+  - Home: index.md
+  - Roles: 
+    - Conference Chair: roles/conf-chair.md
+    - Program Chair: roles/prog-chair.md
+    - Sponsorship Chair: roles/spon-chair.md
+  - Dev Guide: dev.md
