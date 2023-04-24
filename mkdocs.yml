@@ -1,9 +1,28 @@
 site_name: PyTexas Conference Runbooks
-theme: material
+theme:
+  name: material
+  logo: assets/images/favicon.png
+  palette:
+    primary: blue
 nav:
   - Home: index.md
   - Roles: 
     - Conference Chair: roles/conf-chair.md
     - Program Chair: roles/prog-chair.md
+    - Finance Chair: roles/fin-chair.md
     - Sponsorship Chair: roles/spon-chair.md
+    - Marketing & Social Chair: roles/mark-chair.md
+    - Virtual Chair: roles/virt-chair.md
+    - Volunteer & Venue Chair: roles/vol-chair.md
+  - Runbooks:
+    - Call for Proposals: runbooks/cfp.md
+    - Catering: runbooks/catering.md
+    - Venue Booking: runbooks/venue.md
+    - Sponsorship: runbooks/sponsorship.md
+    - Registration: runbooks/registration.md
+    - Swag: runbooks/swag.md
+    - Attendee Feedback: runbooks/feedback.md
+    - Opportunity Grants: runbooks/grants.md
+    - Code of Conduct: runbooks/coc.md
+  - Full Event Timeline: timeline.md
   - Dev Guide: dev.md
