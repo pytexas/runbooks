@@ -5,8 +5,6 @@ theme:
   custom_dir: overrides
   features:
     - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
     - toc.integrate
     - toc.follow
     - navigation.footer
@@ -38,15 +36,17 @@ nav:
     - Virtual Chair: roles/virt-chair.md
     - Volunteer & Venue Chair: roles/vol-chair.md
   - Runbooks:
+    - Attendee Feedback: runbooks/feedback.md
     - Call for Proposals: runbooks/cfp.md
     - Catering: runbooks/catering.md
-    - Venue Booking: runbooks/venue.md
-    - Sponsorship: runbooks/sponsorship.md
-    - Registration: runbooks/registration.md
-    - Swag: runbooks/swag.md
-    - Attendee Feedback: runbooks/feedback.md
-    - Opportunity Grants: runbooks/grants.md
     - Code of Conduct: runbooks/coc.md
+    - Keynote Selection: runbooks/keynote.md
+    - Opportunity Grants: runbooks/grants.md
+    - Registration: runbooks/registration.md
+    - Sponsorship: runbooks/sponsorship.md
+    - Swag: runbooks/swag.md
+    - Venue Booking: runbooks/venue.md
+    
   - Full Event Timeline: timeline.md
   - Developers Guide: dev.md
 
