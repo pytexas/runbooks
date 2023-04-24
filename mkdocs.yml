@@ -2,8 +2,19 @@ site_name: PyTexas Conference Runbooks
 theme:
   name: material
   logo: assets/images/favicon.png
+  custom_dir: overrides
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - toc.follow
+    - navigation.footer
   palette:
     primary: blue
+    accent: yellow
+copyright: Copyright &copy; 2023 - PyTexas Foundation
+
 nav:
   - Home: index.md
   - Roles: 
@@ -25,4 +36,17 @@ nav:
     - Opportunity Grants: runbooks/grants.md
     - Code of Conduct: runbooks/coc.md
   - Full Event Timeline: timeline.md
-  - Dev Guide: dev.md
+  - Developers Guide: dev.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pytexas
+      name: Twitter
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/pytexas-foundation
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jNPAbcNukj
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/PyTexas
