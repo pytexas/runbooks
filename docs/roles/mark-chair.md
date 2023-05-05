@@ -1,6 +1,13 @@
 # Marketing and Socal Media Chair
 
+
 ## Responsibilities
+
+### Pre-Event
+
+### Day of Event
+
+### Post Event
 
 ## Relevant Runbooks
 
