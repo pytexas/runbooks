@@ -2,6 +2,12 @@
 
 ## Responsibilities
 
+### Pre-Event
+
+### Day of Event
+
+### Post Event
+
 ## Relevant Runbooks
 
 ## Past Conference Chairs
