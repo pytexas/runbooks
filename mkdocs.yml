@@ -27,25 +27,35 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Roles: 
-    - Conference Chair: roles/conf-chair.md
-    - Program Chair: roles/prog-chair.md
-    - Finance Chair: roles/fin-chair.md
-    - Sponsorship Chair: roles/spon-chair.md
-    - Marketing & Social Chair: roles/mark-chair.md
-    - Virtual Chair: roles/virt-chair.md
-    - Volunteer & Venue Chair: roles/vol-chair.md
-  - Runbooks:
-    - Attendee Feedback: runbooks/feedback.md
-    - Call for Proposals: runbooks/cfp.md
-    - Catering: runbooks/catering.md
-    - Code of Conduct: runbooks/coc.md
-    - Keynote Selection: runbooks/keynote.md
-    - Opportunity Grants: runbooks/grants.md
-    - Registration: runbooks/registration.md
-    - Sponsorship: runbooks/sponsorship.md
-    - Swag: runbooks/swag.md
-    - Venue Booking: runbooks/venue.md
+  - Conference:
+    - Roles: 
+      - Conference Chair: conference/roles/conf-chair.md
+      - Program Chair: conference/roles/prog-chair.md
+      - Finance Chair: conference/roles/fin-chair.md
+      - Sponsorship Chair: conference/roles/spon-chair.md
+      - Marketing & Social Chair: conference/roles/mark-chair.md
+      - Virtual Chair: conference/roles/virt-chair.md
+      - Volunteer & Venue Chair: conference/roles/vol-chair.md
+    - Runbooks:
+      - Attendee Feedback: conference/runbooks/feedback.md
+      - Call for Proposals: conference/runbooks/cfp.md
+      - Catering: conference/runbooks/catering.md
+      - Code of Conduct: conference/runbooks/coc.md
+      - Keynote Selection: conference/runbooks/keynote.md
+      - Opportunity Grants: conference/runbooks/grants.md
+      - Registration: conference/runbooks/registration.md
+      - Sponsorship: conference/runbooks/sponsorship.md
+      - Swag: conference/runbooks/swag.md
+      - Venue Booking: conference/runbooks/venue.md
+  - Meetup:
+    - Roles:
+      - Host: meetup/roles/host.md
+      - Backstage/Moderator: meetup/roles/backstage.md
+      - Speaker Engagement: meetup/roles/speaker-engagement.md
+    - Runbooks:
+      - CFP Review: meetup/runbooks/cfp-review.md
+      - Create Run of Show Document: meetup/runbooks/create-run-of-show.md
+      - Meetup Night Of Workflow: meetup/runbooks/meetup-night-of.md
     
   - Full Event Timeline: timeline.md
   - Developers Guide: dev.md
