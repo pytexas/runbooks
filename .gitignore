@@ -1,4 +1,13 @@
+# Virtual Environment folders.
 venv/*
+.venv/*
+
+# Output files/folders
 site/*
 *.pyc
 .project
+
+
+# Constraints file to fix PyYAML install issue.
+# See: https://github.com/migtools/mig-agnosticd/issues/207
+constraints.txt
