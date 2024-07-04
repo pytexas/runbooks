@@ -18,6 +18,6 @@ Congratulations, someone has submitted to the Call For Proposals (CFP). Here's w
       is probably fine. If it feels like the focus of the talk is the paid product, then it is probably not fine.
 2. Assuming the talk has not been rejected, identify a month for the speaker to present in.
 3. Contact the speaker and confirm that they are available to speak during the selected month. Have them fill out the 
-  [Speaker Intake Form]().
+  [Speaker Intake Form](https://forms.gle/wTkPDH5k4oeLC45z9).
 
 When the speaker's month arrives, update the PyTexas Meetup website with the information.
