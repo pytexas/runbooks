@@ -1,4 +1,4 @@
-site_name: PyTexas Conference Runbooks
+site_name: PyTexas Runbooks
 theme:
   name: material
   logo: assets/images/favicon.png
@@ -7,13 +7,14 @@ theme:
     - navigation.tracking
     - toc.integrate
     - toc.follow
-    - navigation.footer
   palette:
     primary: blue
     accent: yellow
-copyright: Copyright &copy; 2023 - PyTexas Foundation
+copyright: Copyright &copy; 2024 - PyTexas Foundation
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -24,29 +25,35 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
 
 nav:
   - Home: index.md
   - Conference:
     - Roles: 
       - Conference Chair: conference/roles/conf-chair.md
-      - Program Chair: conference/roles/prog-chair.md
+      # - Program Chair: conference/roles/prog-chair.md
       - Finance Chair: conference/roles/fin-chair.md
-      - Sponsorship Chair: conference/roles/spon-chair.md
-      - Marketing & Social Chair: conference/roles/mark-chair.md
-      - Virtual Chair: conference/roles/virt-chair.md
-      - Volunteer & Venue Chair: conference/roles/vol-chair.md
-    - Runbooks:
-      - Attendee Feedback: conference/runbooks/feedback.md
-      - Call for Proposals: conference/runbooks/cfp.md
-      - Catering: conference/runbooks/catering.md
-      - Code of Conduct: conference/runbooks/coc.md
-      - Keynote Selection: conference/runbooks/keynote.md
-      - Opportunity Grants: conference/runbooks/grants.md
-      - Registration: conference/runbooks/registration.md
-      - Sponsorship: conference/runbooks/sponsorship.md
-      - Swag: conference/runbooks/swag.md
-      - Venue Booking: conference/runbooks/venue.md
+      # - Sponsorship Chair: conference/roles/spon-chair.md
+      # - Marketing & Social Chair: conference/roles/mark-chair.md
+      # - Virtual Chair: conference/roles/virt-chair.md
+      # - Volunteer & Venue Chair: conference/roles/vol-chair.md
+    # - Runbooks:
+      # - Attendee Feedback: conference/runbooks/feedback.md
+      # - Call for Proposals: conference/runbooks/cfp.md
+      # - Catering: conference/runbooks/catering.md
+      # - Code of Conduct: conference/runbooks/coc.md
+      # - Keynote Selection: conference/runbooks/keynote.md
+      # - Opportunity Grants: conference/runbooks/grants.md
+      # - Registration: conference/runbooks/registration.md
+      # - Sponsorship: conference/runbooks/sponsorship.md
+      # - Swag: conference/runbooks/swag.md
+      # - Venue Booking: conference/runbooks/venue.md
+    # - Full Event Timeline: timeline.md
   - Meetup:
     - Roles:
       - Host: meetup/roles/host.md
@@ -56,19 +63,23 @@ nav:
       - CFP Review: meetup/runbooks/cfp-review.md
       - Create Run of Show Document: meetup/runbooks/create-run-of-show.md
       - Meetup Night Of Workflow: meetup/runbooks/meetup-night-of.md
-    
-  - Full Event Timeline: timeline.md
-  - Developers Guide: dev.md
+  
+  - Contributors Guide: contribute.md
 
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/pytexas
-      name: Twitter
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/pytexas-foundation
     - icon: fontawesome/brands/discord
       link: https://discord.gg/jNPAbcNukj
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/pytexas-foundation
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/c/PyTexas
+      link: https://www.youtube.com/@PyTexas/
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@pytexas
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/pro/pytexas
+    - icon: fontawesome/brands/github
+      link: https://github.com/pytexas
