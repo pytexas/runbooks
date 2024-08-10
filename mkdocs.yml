@@ -36,9 +36,9 @@ nav:
   - Conference:
     - Roles: 
       - Conference Chair: conference/roles/conf-chair.md
-      # - Program Chair: conference/roles/prog-chair.md
+      - Program Chair: conference/roles/prog-chair.md
       - Finance Chair: conference/roles/fin-chair.md
-      # - Sponsorship Chair: conference/roles/spon-chair.md
+      - Sponsorship Chair: conference/roles/spon-chair.md
       # - Marketing & Social Chair: conference/roles/mark-chair.md
       # - Virtual Chair: conference/roles/virt-chair.md
       # - Volunteer & Venue Chair: conference/roles/vol-chair.md
