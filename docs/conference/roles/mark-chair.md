@@ -1,4 +1,4 @@
-# Marketing and Socal Media Chair
+# Marketing and Social Media Chair
 
 
 ## Responsibilities
