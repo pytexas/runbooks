@@ -6,8 +6,8 @@ To organize a weekly Sprint nights for PyTexas pythonistas to supplement the exi
 ## Steps
 
 ### Identify Key Details
-- **Frequency:** Weekly
-- **Day & Time:** [e.g., Every Thursday at 9 PM]
+- **Frequency:** Monthly
+- **Day & Time:** [e.g., Thursday at 7 PM]
 - **Duration:** 1-2 hours
 - **Platform:** Discord (using the existing server) and github for collaboration.
 
