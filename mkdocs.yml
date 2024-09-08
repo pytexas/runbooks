@@ -63,6 +63,9 @@ nav:
       - CFP Review: meetup/runbooks/cfp-review.md
       - Create Run of Show Document: meetup/runbooks/create-run-of-show.md
       - Meetup Night Of Workflow: meetup/runbooks/meetup-night-of.md
+  - Community Events:
+    - Coffee Buds: community/runbooks/coffee-talk.md
+    - Sprint Nights: community/runbooks/sprint-nights.md
   
   - Contributors Guide: contribute.md
 
