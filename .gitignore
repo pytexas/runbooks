@@ -1,13 +1,34 @@
-# Virtual Environment folders.
-venv/*
-.venv/*
+# Virtual Environment folders
+venv/
+.venv/
+
+# uv artifacts
+.uv/
+.uvx/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
 
 # Output files/folders
-site/*
-*.pyc
+site/
 .project
 
+# MkDocs cache
+.cache/
 
-# Constraints file to fix PyYAML install issue.
-# See: https://github.com/migtools/mig-agnosticd/issues/207
-constraints.txt
+# Link checker cache
+.lycheecache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

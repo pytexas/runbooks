@@ -34,6 +34,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Conference:
+    - Documentation: conference/index.md
     - Roles: 
       - Conference Chair: conference/roles/conf-chair.md
       - Program Chair: conference/roles/prog-chair.md
@@ -54,7 +55,8 @@ nav:
       # - Swag: conference/runbooks/swag.md
       # - Venue Booking: conference/runbooks/venue.md
     # - Full Event Timeline: timeline.md
-  - Meetup:
+  - Virtual Meetup:
+    - Documentation: meetup/index.md
     - Roles:
       - Host: meetup/roles/host.md
       - Backstage/Moderator: meetup/roles/backstage.md
@@ -63,10 +65,10 @@ nav:
       - CFP Review: meetup/runbooks/cfp-review.md
       - Create Run of Show Document: meetup/runbooks/create-run-of-show.md
       - Meetup Night Of Workflow: meetup/runbooks/meetup-night-of.md
-  - Community Events:
-    - Coffee Meetup: community/runbooks/coffee-talk.md
+  - Community Discord:
+    - Documentation: community/index.md
+    - Coffee Chats: community/runbooks/coffee-chats.md
     - Sprint Nights: community/runbooks/sprint-nights.md
-  
   - Contributors Guide: contribute.md
 
 extra:

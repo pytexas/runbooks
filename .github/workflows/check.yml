@@ -17,3 +17,4 @@ jobs:
 
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
+EOF < /dev/null

@@ -10,43 +10,56 @@ that it is not how we do things.
 If you are starting your own conference and want to use this as a
 baseline for your operations feel free to fork!
 
+## Prerequisites
+
+This project uses modern Python tooling for development. You'll need to install:
+
+1. **uv** - Fast Python package manager
+    - Install: `curl -LsSf https://astral.sh/uv/install.sh | sh`
+    - More info: [uv documentation](https://docs.astral.sh/uv/)
+2. **just** - Command runner for project tasks
+    - Install: `cargo install just` or `brew install just`
+    - More info: [just documentation](https://just.systems/)
+3. **lychee** (optional) - Link checker for documentation
+    - Install: `cargo install lychee` or `brew install lychee`
+    - More info: [lychee documentation](https://github.com/lycheeverse/lychee)
+    - _If you don't install this, the CI will catch any broken links and fail the build._
+
 ## Developing Locally
 
-1. Install dependencies in a virtual environment:
+1. Clone the repository and install dependencies:
 
-    ```
-    pip install -r requirements.txt
-    ```
-
-1. You can run `mkdocs` in local dev mode by running:
-
-    ```
-    mkdocs serve
+    ```bash
+    git clone https://github.com/pytexas/runbooks.git
+    cd runbooks
+    just install  # or: uv sync
     ```
 
-1. You can build out the full static site by running:
+2. Start the development server with hot reload:
 
+    ```bash
+    just serve  # or: uv run mkdocs serve
     ```
-    mkdocs build
+
+    The site will be available at http://localhost:8000
+
+3. Build the static site:
+
+    ```bash
+    just build  # or: uv run mkdocs build
     ```
 
-## Project layout
+## Available Commands
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        roles/        # Markdown pages describing the various roles
-            conf-chair.md
-            ...     
-        runbooks/     # Markdown pages for the various tasks-based runbooks
-            cfp.md
-            ...
-        dev.md        # Developer guide for contribution
-        index.md      # The homepage.
-        timeline.md   # A full, end-to-end, time-delineated list of tasks to be done and when
-    overrides/
-        partials/     # Customer overrides of the theme
-            copyright.html # Added the Create Commons footer
-    requirements.txt  # Python package requirements to build and dev this guide
+Run `just help` to see all available commands:
+
+- `just install` - Install all dependencies
+- `just serve` - Start development server
+- `just build` - Build static site
+- `just validate` - Build with strict validation
+- `just link-check` - Check all links
+- `just check` - Run all quality checks
+- `just clean` - Clean generated files
 
 ## Extended Markdown Guide
 This guide uses a few `pymdownx` extensions to render various
