@@ -14,7 +14,3 @@ jobs:
         with:
           fail-on-severity: high
           comment-summary-in-pr: always
-
-env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
-EOF < /dev/null
