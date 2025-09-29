@@ -44,7 +44,8 @@ nav:
       # - Marketing & Social Chair: conference/roles/mark-chair.md
       # - Virtual Chair: conference/roles/virt-chair.md
       # - Volunteer & Venue Chair: conference/roles/vol-chair.md
-    # - Runbooks:
+    - Runbooks:
+      - Kickoff Meeting: conference/runbooks/kickoff-meeting.md
       # - Attendee Feedback: conference/runbooks/feedback.md
       # - Call for Proposals: conference/runbooks/cfp.md
       # - Catering: conference/runbooks/catering.md
