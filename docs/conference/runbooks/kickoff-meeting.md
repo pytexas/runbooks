@@ -7,23 +7,31 @@ This template provides the structure for the annual PyTexas conference kickoff m
 ### Required Documents to Prepare
 
 * Conference dates and venue confirmation
-* [PyTexas Google Drive](https://drive.google.com/drive/folders/1eXCLHAVLlCbx-n1Ob5CpFXInexBkLtPu) access for all attendees
+* [PyTexas Google Drive](https://drive.google.com/drive/folders/1eXCLHAVLlCbx-n1Ob5CpFXInexBkLtPu) for the new year, access granted for all organizers
 * Previous year's budget spreadsheet (update link when available)
-* Foundation Members list (current officers)
 * Conference goals for the year
 * Previous year's retrospective and feedback documents
-* Previous year's data spreadsheet for reference
+* Previous year's data spreadsheets for reference
 
 ### Attendee Management
 
-* Send calendar invites 2 weeks in advance
+* Send calendar invite 2 weeks in advance
+  * Determine where you're holding the meeting, virtual or in-person
+    * Virtual:
+      * Discord
+      * Google Meet
+      * Zoom
+    * In-person:
+      * Coffee shop
+      * WeWork
+      * Restaurant
 * Include agenda and important document links
 * Request RSVPs to plan for meeting length
-* Set up video conference with good audio quality
 
 ## Meeting Agenda Template
+_Copy and paste this into a shared document_
 
-**Total Meeting Time: 45 minutes (hard cutoff at 1 hour)**
+**Total Meeting Time: 55 minutes (hard cutoff at 1 hour)**
 
 ### 1. Opening (5 minutes)
 
@@ -57,9 +65,7 @@ Define 3-4 specific, measurable goals for the conference year:
 * Tax filing status
 
 #### Community Initiatives
-* PyLadies chapter status
-* Other foundation activities
-* Volunteer recruitment results
+* Current initiatives of the Foundation and progress
 
 ### 4. Committee Formation & Chair Assignments (10 minutes)
 
@@ -114,9 +120,9 @@ Define 3-4 specific, measurable goals for the conference year:
 * Documentation commitment for runbooks
 * Next steps and timeline
 
-### 6. Committee Updates & Initial Planning (15 minutes total)
+### 6. Committee Updates & Initial Planning (25 minutes total)
 
-#### Speaker Committee (3 minutes)
+#### Speaker Committee (5 minutes)
 **Immediate Decisions Needed:**
 * CFP open and close dates
 * Review and notification timeline
@@ -129,7 +135,7 @@ Define 3-4 specific, measurable goals for the conference year:
 * CFP review process and criteria
 * Speaker information collection process
 
-#### Finance Committee (3 minutes)
+#### Finance Committee (5 minutes)
 **Immediate Decisions Needed:**
 * Budget review and approval
 * Sponsor prospectus timeline
@@ -138,9 +144,8 @@ Define 3-4 specific, measurable goals for the conference year:
 **Items for Next Meeting:**
 * Sponsor prospectus publication
 * Sponsorship tier structure
-* Payment processing setup
 
-#### Marketing Committee (3 minutes)
+#### Marketing Committee (5 minutes)
 **Immediate Decisions Needed:**
 * Social media promotion timeline
 * Logo and branding finalization
@@ -152,7 +157,7 @@ Define 3-4 specific, measurable goals for the conference year:
 * Swag vendor coordination
 * Social media content calendar
 
-#### Venue Committee (3 minutes)
+#### Venue Committee (5 minutes)
 **Immediate Decisions Needed:**
 * Venue contract status
 * Registration platform selection
@@ -163,7 +168,7 @@ Define 3-4 specific, measurable goals for the conference year:
 * Volunteer recruitment plan
 * Catering arrangements
 
-#### Community Committee (3 minutes)
+#### Community Committee (5 minutes)
 **Immediate Decisions Needed:**
 * Virtual event components
 * Communication platform setup
@@ -189,16 +194,15 @@ Define 3-4 specific, measurable goals for the conference year:
 * [ ] Begin work on immediate action items identified
 
 ### Documentation Requirements
-* [ ] Update this template based on lessons learned
+* [ ] Update this meeting template based on lessons learned
 * [ ] Create or update committee-specific runbooks
 * [ ] Document any process changes or improvements
 
 ## Meeting Logistics
 
 ### Best Practices
-* Keep strict time limits for each agenda item
-* Use a timer and designate a timekeeper
-* Park off-topic discussions for later follow-up
+* Use a timer and try to keep to time limit of each section
+  * Park off-topic discussions for after the meeting
 * Ensure all committees have clear next steps
 * Document decisions and action items in real-time
 
@@ -216,6 +220,6 @@ Define 3-4 specific, measurable goals for the conference year:
 
 ## Template Notes
 
-**For Conference Chair:** Review and customize this template 1-2 weeks before the meeting. Update specific dates, goals, and context based on the current year's needs.
+**For Conference Chair:** Review and customize the meeting template 1-2 weeks before the meeting. Update specific dates, goals, and context based on the current year's needs.
 
-**For Future Years:** After each kickoff meeting, update this template with improvements and lessons learned to make the process more efficient.
+**For Future Years:** After each kickoff meeting, update this kickoff template with improvements and lessons learned to make the process more efficient.
