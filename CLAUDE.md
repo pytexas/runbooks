@@ -100,6 +100,15 @@ justfile                # Task automation with just command runner
 - Python 3.13 (specified in `.python-version`)
 - MkDocs Material theme with extensions for Mermaid diagrams, task lists, and tabbed content
 - GitHub Actions workflows require successful link checks before deployment
+- External tools required for development: `lychee` (link checker), `just` (command runner)
+
+## Workflow Dependencies
+
+The CI/CD pipeline has strict ordering requirements:
+- Link check workflow must complete successfully before deployment triggers
+- All workflows use the `.python-version` file for Python version consistency
+- The deployment workflow (`ci.yml`) only runs after successful link validation
+- Caching is implemented for MkDocs Material to improve build performance
 
 ## Writing Runbooks
 
@@ -108,3 +117,17 @@ When adding new runbooks:
 2. Update `mkdocs.yml` nav section if adding new pages
 3. Run `just validate` before committing to ensure strict validation passes
 4. Check links with `just link-check` to avoid CI failures
+
+## Navigation Management
+
+The site uses a manual navigation structure in `mkdocs.yml`. Many sections are commented out, indicating planned future content:
+- Conference runbooks section has extensive placeholder structure for process documentation
+- Role descriptions are actively maintained while procedural runbooks are planned
+- Use the commented navigation as a guide for organizing new content
+
+## Development Setup Requirements
+
+External tools required (not managed by uv):
+- **just**: Command runner for development tasks - install via `brew install just` or `cargo install just`
+- **lychee**: Link checker for CI validation - install via `brew install lychee` or `cargo install lychee`
+- **uv**: Modern Python package manager - install via `curl -LsSf https://astral.sh/uv/install.sh | sh`
