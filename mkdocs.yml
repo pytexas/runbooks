@@ -1,4 +1,6 @@
 site_name: PyTexas Runbooks
+repo_url: https://github.com/pytexas/runbooks
+repo_name: pytexas/runbooks
 theme:
   name: material
   logo: assets/images/favicon.png
