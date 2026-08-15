@@ -1,0 +1,176 @@
+# Discord and Hybrid Setup Runbook
+
+Owned by Community Committee.
+
+PyTexas moved community chat from Slack to Discord in August 2022 (free-tier Slack history limits kept eating the archive).
+Organizer coordination also moves to Discord for the 2027 cycle, with a webhook feeding ticket purchases into a channel.
+
+See `community-committee-runbook.md`.
+
+## Annual Setup
+
+### Server Prep (Month -8 to -7)
+- [ ] Archive prior conference channels
+- [ ] Create new year channels:
+  - #general, #announcements
+  - #cfp-discussions
+  - #speakers
+  - #sponsors
+  - #virtual-attendees
+  - #help, #random, #job-board
+  - Voice channels for networking
+- [ ] Roles: Organizer, Speaker, Sponsor, Attendee (in-person), Attendee (virtual), Volunteer
+- [ ] Update server icon and banner
+
+### Bot (Month -8 to -7)
+- [ ] Pull last year's bot from the repo
+- [ ] Confirm a maintainer plus at least one second maintainer; a one-person bot is a single point of failure
+- [ ] Develop it like software: changes go through PR review and get demoed at planning meetings
+- [ ] Scope slash commands to what will actually exist by conference time: `/poll`, `/question`, `/schedule` first; `/icebreaker`, `/coffee`, `/intro` are nice-to-have
+- [ ] Test `/register`: role assignment, ticket verification, error handling
+- [ ] Manual override commands for organizers
+- [ ] Document deployment and permissions
+
+The bot is hosted on the PyTexas DigitalOcean account.
+
+Known failure mode: `/register` fails for bulk corporate purchases because the ticket carries the registering (buyer's) email, not the attendee's.
+Manual role assignment is the fix; capture both emails at purchase if the ticketing setup allows it.
+
+### Slido (Month -3 to -2)
+- [ ] Buy a single-event license
+- [ ] One Slido event per talk session or reusable
+- [ ] Moderation settings (prevent spam)
+- [ ] Archive questions after each talk
+- [ ] Mods approve, filter, and mark answered
+
+## Streaming and Hybrid
+
+### Setup
+- [ ] Stream to YouTube (2026 practice; 2024-2025 streamed into Discord with YouTube as backup)
+- [ ] Coordinate the stream with the A/V vendor
+- [ ] Test stream at least one week ahead
+- [ ] Go live 10-15 minutes before the first session each day
+- [ ] Train at least one backup who knows the full YouTube plus Discord workflow; 2026 ran one person solo and illness would have taken down the stream
+- [ ] Capture speaker Discord handles in the speaker intake form for direct messaging
+
+### Captioning
+- [ ] Confirm captioning with the A/V vendor early; display method and recording behavior take months to settle
+- [ ] Slide pre-uploads plus speaker-provided technical-term lists feed caption prep
+- [ ] Test before the conference
+
+See `av.md`.
+
+### Virtual Attendees
+- [ ] Define the offering: livestream, Discord access, Slido Q&A, recordings post-conference
+- [ ] Welcome email with `/register` instructions
+- [ ] Test stream access before the conference
+- [ ] Dedicated channel for virtual attendees
+
+Size expectations honestly: 350 was the 2025 virtual ticket cap, but only ~30-48 virtual tickets were sold or comped that year, and 2026 sold almost none.
+All in-person tickets include virtual access.
+
+## Moderation
+
+### Coverage
+- [ ] Name the primary chat and stream operator plus at least one trained backup
+- [ ] Pick ONE chat tool for day-of organizer coordination; 2024's Discord plus Slack plus Slido juggling was painful
+- [ ] Brief everyone on CoC handling and escalation (see `coc.md`)
+- [ ] Mod-only channel for coordination
+
+### Commands
+
+Documented:
+- `/register` - verify ticket, assign attendee role
+
+Wishlist (prioritized in 2026; verify what actually shipped before documenting):
+- `/poll`, `/question`, `/schedule` first
+- `/icebreaker`, `/coffee`, `/intro` nice-to-have
+
+Moderation runs on manual role assignment and Discord's native moderation tools.
+
+### Common Issues
+
+`/register` fails:
+- Cause: email mismatch, bulk corporate purchase, DB sync issue
+- Fix: manually assign the Attendee role
+- Document for bot improvement
+
+User can't find registration:
+- Try email variations, full name
+- Check Pretix directly
+- Escalate to Finance if needed
+
+Bot offline:
+- Check status, restart
+- Manual role assignment in the meantime
+- Contact either maintainer
+
+Virtual attendee can't see channels:
+- Verify the Virtual role is assigned
+- Check channel permissions
+
+## Day-of Discord
+
+### Morning (Each Day)
+- [ ] Welcome post in #general
+- [ ] CoC reminder
+- [ ] Start the stream 10-15 minutes early and verify it
+- [ ] Slido ready for the first session
+
+### Per Talk
+- [ ] Post speaker info as the talk starts: name, LinkedIn or handles, talk title, slides link when available (2025 practice, well received)
+- [ ] Moderate Slido before display
+- [ ] Archive Slido after the talk
+- [ ] Point overflow Q&A to conference-chat; speakers answer there after their slots
+
+### Throughout
+- [ ] Compile every link shared in conference-chat into the link-compilation doc, organized per day
+- [ ] Respond to attendee questions
+- [ ] Handle `/register` failures with manual role assignment
+- [ ] Welcome and engage virtual attendees
+- [ ] Watch for CoC violations (see `coc.md`)
+
+## Post-Conference
+
+### Week 1
+- [ ] Keep Discord active (highlights, recordings, slides, discussion)
+- [ ] Thank moderators
+
+### After Publishing
+- [ ] Post recording links per talk
+- [ ] Post slide links and the compiled links doc
+- [ ] Archive conference channels after 2-4 weeks
+- [ ] Maintain general channels year-round
+
+## Infrastructure
+
+- Bot hosted on the PyTexas DigitalOcean account, with a maintainer and a second maintainer
+- Slido: single-event license per conference
+- Speaker headshot storage: a DigitalOcean Spaces bucket was proposed in 2025 after Pretalx link rot broke the 2024 site; confirm what the current year actually uses
+
+## Year-Round
+
+- [ ] Active server (Python news, discussion, Q&A)
+- [ ] Coordinate social with Marketing
+- [ ] Highlight community projects
+- [ ] Welcome newcomers
+- [ ] Pre-conference engagement (countdown, speaker intros, attendee intros)
+
+## Cross-Committee
+
+- Speaker: speaker info for posts, Discord handles at intake, KBYG covers Slido and Discord
+- Marketing: messaging alignment, social posts
+- Finance: registration issues, opportunity grant announcements
+- Venue: stream coordination with the A/V vendor
+
+## Lessons Learned
+
+- The bot fails on bulk corporate email tickets (registering email vs attendee email). Manual override required.
+- 2026: one person ran streaming and chat solo; a trained backup must know the workflow.
+- 2025: speaker link posts at talk start are a hit. Standardize.
+- Slido jumps around when questions get reordered. Mark or skip answered questions.
+- Speakers answer leftover Slido questions on their own time post-talk, not under live pressure.
+- Polls in Slido take center stage and block Q&A. Choose one per session.
+- 2025: YouTube stream bandwidth dips traced to library infrastructure; hotspot failover was judged impractical. Budget slack into stream expectations.
+- Capture speaker Discord handles in the intake form.
+- Don't move platforms. Discord is working, and 2027 doubles down on it for organizing too.

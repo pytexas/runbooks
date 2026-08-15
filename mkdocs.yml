@@ -37,28 +37,44 @@ nav:
   - Home: index.md
   - Conference:
     - Documentation: conference/index.md
-    - Roles: 
+    - Roles:
       - Conference Chair: conference/roles/conf-chair.md
-      - Program Chair: conference/roles/prog-chair.md
+      - Speaker Chair: conference/roles/speaker-chair.md
       - Finance Chair: conference/roles/fin-chair.md
-      - Sponsorship Chair: conference/roles/spon-chair.md
-      - Hybrid Chair: conference/roles/hybrid-chair.md
-      # - Marketing & Social Chair: conference/roles/mark-chair.md
-      # - Virtual Chair: conference/roles/virt-chair.md
-      # - Volunteer & Venue Chair: conference/roles/vol-chair.md
-    - Runbooks:
-      - Kickoff Meeting: conference/runbooks/kickoff-meeting.md
-      # - Attendee Feedback: conference/runbooks/feedback.md
-      # - Call for Proposals: conference/runbooks/cfp.md
-      # - Catering: conference/runbooks/catering.md
-      # - Code of Conduct: conference/runbooks/coc.md
-      # - Keynote Selection: conference/runbooks/keynote.md
-      # - Opportunity Grants: conference/runbooks/grants.md
-      # - Registration: conference/runbooks/registration.md
-      # - Sponsorship: conference/runbooks/sponsorship.md
-      # - Swag: conference/runbooks/swag.md
-      # - Venue Booking: conference/runbooks/venue.md
-    # - Full Event Timeline: timeline.md
+      - Marketing Chair: conference/roles/mark-chair.md
+      - Venue Chair: conference/roles/venue-chair.md
+      - Community Chair: conference/roles/community-chair.md
+      - Onboarding a New Lead: conference/runbooks/onboarding-new-lead.md
+    - Kickoff Meeting: conference/runbooks/kickoff-meeting.md
+    - Master Timeline: conference/runbooks/conference-master-timeline.md
+    - Next-Year Planning: conference/runbooks/next-year-planning.md
+    - Day-of Operations: conference/runbooks/day-of-operations-guide.md
+    - Run of Show: conference/runbooks/run-of-show.md
+    - Budget Planning: conference/runbooks/budget-planning-template.md
+    - Committee Runbooks:
+      - Conference: conference/runbooks/conference-committee-runbook.md
+      - Speaker: conference/runbooks/speaker-committee-runbook.md
+      - Finance: conference/runbooks/finance-committee-runbook.md
+      - Marketing: conference/runbooks/marketing-committee-runbook.md
+      - Venue: conference/runbooks/venue-committee-runbook.md
+      - Community: conference/runbooks/community-committee-runbook.md
+    - Topic Runbooks:
+      - Call for Proposals: conference/runbooks/cfp.md
+      - Keynote: conference/runbooks/keynote.md
+      - Sponsorship: conference/runbooks/sponsorship.md
+      - Registration: conference/runbooks/registration.md
+      - Venue: conference/runbooks/venue.md
+      - A/V Vendor: conference/runbooks/av.md
+      - Discord and Hybrid: conference/runbooks/discord.md
+      - Swag: conference/runbooks/swag.md
+      - Networking Event: conference/runbooks/network-event.md
+      - Opportunity Grants: conference/runbooks/grants.md
+      - Volunteers: conference/runbooks/volunteers.md
+      - Day-of Supplies: conference/runbooks/day-of-supplies.md
+      - Post-Event: conference/runbooks/post-event.md
+      - Catering: conference/runbooks/catering.md
+      - Code of Conduct: conference/runbooks/coc.md
+      - Attendee Feedback: conference/runbooks/feedback.md
   - Virtual Meetup:
     - Documentation: meetup/index.md
     - Roles:

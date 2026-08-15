@@ -63,7 +63,7 @@ Run `just help` to see all available commands:
 
 ## Extended Markdown Guide
 This guide uses a few `pymdownx` extensions to render various
-web elemnts.
+web elements.
 
 ### Details
 
@@ -120,7 +120,7 @@ web elemnts.
 
 ### Diagrams with Mermaid
 
-#### Flow Chard
+#### Flow Chart
 ```markdown
 graph LR
   A[Start] --> B{Error?};
