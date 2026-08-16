@@ -1,225 +1,112 @@
 # Conference Kickoff Meeting Template
 
-This template provides the structure for the annual PyTexas conference kickoff meeting, typically held 6-8 months before the conference date.
+Structure for the annual PyTexas conference kickoff meeting.
+The kickoff happens at Month -8, mid-August, virtual, in the evening.
 
 ## Pre-Meeting Preparation
 
-### Required Documents to Prepare
+### Important Documents
+
+Create the year's Important Documents before the meeting and link them at the top of the agenda:
+
+* The year's minutes and agenda doc (clone last year's template)
+* The year's Drive folder, with access granted to all organizers
+* The year's budget sheet (created during the previous conference weekend; see `next-year-planning.md`)
+* The year's retro doc (live from day one)
+
+Also have on hand for reference:
 
 * Conference dates and venue confirmation
-* [PyTexas Google Drive](https://drive.google.com/drive/folders/1eXCLHAVLlCbx-n1Ob5CpFXInexBkLtPu) for the new year, access granted for all organizers
-* Previous year's budget spreadsheet (update link when available)
-* Conference goals for the year
-* Previous year's retrospective and feedback documents
-* Previous year's data spreadsheets for reference
+* Previous year's retrospective and survey results
+* Previous year's data spreadsheets
 
 ### Attendee Management
 
-* Send calendar invite 2 weeks in advance
-  * Determine where you're holding the meeting, virtual or in-person
-    * Virtual:
-      * Discord
-      * Google Meet
-      * Zoom
-    * In-person:
-      * Coffee shop
-      * WeWork
-      * Restaurant
-* Include agenda and important document links
-* Request RSVPs to plan for meeting length
+* Send the calendar invite well ahead of the meeting with the agenda and document links
+* Virtual by default (Discord, Google Meet, or Zoom)
 
 ## Meeting Agenda Template
-_Copy and paste this into a shared document_
 
-**Total Meeting Time: 55 minutes (hard cutoff at 1 hour)**
+Copy this into the minutes doc.
 
-### 1. Opening (5 minutes)
+**Target: 45 minutes. Hard cutoff at 1 hour.** Put a timer on each section.
 
-#### Introductions
-For each attendee, collect:
-* Name
-* Job/Organization
-* City
-* How long they've been organizing
-* Favorite Python library (icebreaker)
+### 1. Welcome and Introductions (10 Minutes)
 
-### 2. Conference Goals (5 minutes)
+For each attendee: name, Texas city, job or organization, and a fun fact.
 
-Define 3-4 specific, measurable goals for the conference year:
-* Ticket sales target and timeline
-* Financial/profit goals
-* Process improvement goals
-* Special initiatives (anniversary years, new features)
+### 2. Conference Overview (5 Minutes)
 
-**Example Goals:**
-* Sell out tickets one month prior to conference
-* Achieve $[X] profit while expanding conference features
-* Improve meeting efficiency and documentation
-* Focus on delegation and process documentation
+* Conference dates and venue
+* Key deadlines already known: CFP opens October 1 (the cycle's first hard deadline), early bird tickets on sale in the fall
+* Anything already booked or signed (venue contract, deposit status)
 
-### 3. Foundation Updates (5 minutes)
+### 3. Goals (5 Minutes)
 
-#### Financial Status
-* Current bank account balances
-* Outstanding expenses or income
-* Tax filing status
+Set 3-4 specific goals for the year and write them into the minutes doc header:
 
-#### Community Initiatives
-* Current initiatives of the Foundation and progress
+* Ticket sales target and timeline (standing goal: sell out one month prior to the conference)
+* A specific profit target
+* Meeting discipline itself (stick to the agenda, 45-minute target, 1-hour cutoff)
+* Process goals (runbooks, delegation, documentation)
 
-### 4. Committee Formation & Chair Assignments (10 minutes)
+### 4. Where We Need Help (15 Minutes)
 
-#### Speaker Committee
-* **Chair:** [Name]
-* **Members:** [List]
-* **Responsibilities:**
-  * Speaker recruitment and management
-  * Call for Proposals (CFP) process
-  * Tutorial coordination
-  * Keynote selection
+Walk the committee list, describing what each unit owns, then run a round-robin mapping volunteers to committees: "What do YOU want to do?"
 
-#### Finance Committee
-* **Chair:** [Name]
-* **Members:** [List]
-* **Responsibilities:**
-  * Conference budget management
-  * Sponsor recruitment and management
-  * Financial reporting
+| Committee | Owns |
+|---|---|
+| Conference Chair | Coordination, meetings, next-year planning, escalation, day-of lead |
+| Speaker | CFP, talk selection, keynotes, tutorials, schedule, speaker comms |
+| Finance | Budget, sponsorship, registration money, grants, insurance, taxes |
+| Marketing | Social campaigns, newsletter, website, design assets |
+| Venue | Venue relationship, A/V, catering, evening events, swag, badges, registration desk, volunteers |
+| Community | Outreach, Discord, streaming, virtual experience, aftercare |
 
-#### Marketing Committee
-* **Chair:** [Name]
-* **Members:** [List]
-* **Responsibilities:**
-  * Conference branding and design
-  * Social media strategy
-  * Website updates
-  * Swag coordination
+Record the lead for each committee in the minutes.
+If a lead position stays open, recruiting a replacement becomes a chair action item.
 
-#### Venue Committee
-* **Chair:** [Name]
-* **Members:** [List]
-* **Responsibilities:**
-  * Registration and attendee management
-  * Audio/visual and signage
-  * Venue coordination and catering
-  * Volunteer management
+### 5. How We Work and Next Steps (10 Minutes)
 
-#### Community Committee
-* **Chair:** [Name]
-* **Members:** [List]
-* **Responsibilities:**
-  * Community outreach
-  * Attendee communication
-  * Virtual/hybrid event components
-  * Post-conference follow-up
-
-### 5. Conference Chair Update (5 minutes)
-
-* Project management tool setup and access
-* Communication channels (Slack, Discord, etc.)
-* Documentation commitment for runbooks
-* Next steps and timeline
-
-### 6. Committee Updates & Initial Planning (25 minutes total)
-
-#### Speaker Committee (5 minutes)
-**Immediate Decisions Needed:**
-* CFP open and close dates
-* Review and notification timeline
-* Keynote selection process
-* Number of speaking slots
-
-**Items for Next Meeting:**
-* Talk format and duration decisions
-* Tutorial offerings
-* CFP review process and criteria
-* Speaker information collection process
-
-#### Finance Committee (5 minutes)
-**Immediate Decisions Needed:**
-* Budget review and approval
-* Sponsor prospectus timeline
-* Contact email setup
-
-**Items for Next Meeting:**
-* Sponsor prospectus publication
-* Sponsorship tier structure
-
-#### Marketing Committee (5 minutes)
-**Immediate Decisions Needed:**
-* Social media promotion timeline
-* Logo and branding finalization
-* Marketing material needs
-
-**Items for Next Meeting:**
-* CFP promotion campaign
-* Email marketing strategy
-* Swag vendor coordination
-* Social media content calendar
-
-#### Venue Committee (5 minutes)
-**Immediate Decisions Needed:**
-* Venue contract status
-* Registration platform selection
-* A/V requirements
-
-**Items for Next Meeting:**
-* Ticket pricing and sales strategy
-* Volunteer recruitment plan
-* Catering arrangements
-
-#### Community Committee (5 minutes)
-**Immediate Decisions Needed:**
-* Virtual event components
-* Communication platform setup
-
-**Items for Next Meeting:**
-* Website update requirements
-* Community engagement strategy
-* Accessibility planning
+* Tools: task tracking (Asana), the Drive folder, shared password vault
+* Chat platform confirmation (organizing runs on Discord)
+* Meeting cadence: roughly monthly to start, tightening to biweekly then weekly as the conference approaches
+* Documentation commitment: runbooks are updated as we go
+* Action items with owners: speaker lead drives the CFP launch (due October 1), speaker lead opens the keynote nomination form (due: today; launch the form at the kickoff meeting itself), finance lead readies the sponsor prospectus for early-October publication
 
 ## Post-Meeting Actions
 
-### Immediate Follow-ups (Within 1 Week)
+### Within 1 Week
+
 * [ ] Distribute meeting notes to all attendees
 * [ ] Set up committee communication channels
-* [ ] Schedule next committee meetings
-* [ ] Update project management tool with initial tasks
-* [ ] Confirm access to shared resources for all chairs
+* [ ] Update the task tracker with initial tasks
+* [ ] Confirm access to shared resources for all leads
 
-### Committee Setup (Within 2 Weeks)
-* [ ] Each committee chair to schedule first committee meeting
-* [ ] Define committee meeting cadence
-* [ ] Create committee-specific documentation spaces
-* [ ] Begin work on immediate action items identified
+### Within 2 Weeks
 
-### Documentation Requirements
-* [ ] Update this meeting template based on lessons learned
-* [ ] Create or update committee-specific runbooks
-* [ ] Document any process changes or improvements
+* [ ] Each committee lead schedules their first working session
+* [ ] Begin work on kickoff action items
+
+### Documentation
+
+* [ ] Update this template with lessons from the meeting
+* [ ] Create or update committee runbooks as decisions land
 
 ## Meeting Logistics
 
-### Best Practices
-* Use a timer and try to keep to time limit of each section
-  * Park off-topic discussions for after the meeting
-* Ensure all committees have clear next steps
-* Document decisions and action items in real-time
+* Use a timer for each section; park off-topic discussions
+* Document decisions and action items in real time in the minutes doc
+* Every committee leaves with clear next steps
 
-### Required Tools
-* Video conferencing platform with good audio
-* Shared document for live note-taking
-* Project management tool access for all chairs
-* Calendar system for scheduling follow-ups
+### Success Criteria
 
-### Success Metrics
-* Meeting completes within 1-hour time limit
-* All committee chairs identified and committed
-* Clear next steps defined for each committee
-* Follow-up meetings scheduled before ending
+* Meeting ends within the 1-hour cutoff
+* All committee leads identified, or recruiting an open lead is an assigned action item
+* Follow-up cadence scheduled before ending
 
 ## Template Notes
 
-**For Conference Chair:** Review and customize the meeting template 1-2 weeks before the meeting. Update specific dates, goals, and context based on the current year's needs.
+For the Conference Chair: review and customize this template 1-2 weeks before the meeting with the current year's dates, goals, and context.
 
-**For Future Years:** After each kickoff meeting, update this kickoff template with improvements and lessons learned to make the process more efficient.
+For future years: after each kickoff, update this template with what worked and what dragged.
