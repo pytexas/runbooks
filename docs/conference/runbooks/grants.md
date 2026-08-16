@@ -8,32 +8,32 @@ Contact: grants@pytexas.org.
 ## How the Fund Is Seeded
 
 - A budget line of a few percent of total expenses (see `budget-planning-template.md`)
-- Keynote and tutorial honoraria that speakers redirect or donate back; this happened every year from 2024 through 2026
-- Optional grant-focused sponsorships (a 2025 retro idea: convert unsold Network Event slots into grant sponsorships)
+- Keynote and tutorial honoraria that speakers redirect or donate back; this happens most years, so offer speakers the option rather than assuming
+- Optional grant-focused sponsorships (for example, converting unsold Network Event slots into grant sponsorships)
 
 ## Timeline
 
 - [ ] About 4 months out (late December): open the application Google Form and announce it with Marketing
 - [ ] Promote the deadline through mid-February; Marketing runs a grant-deadline campaign
 - [ ] About Week -8.5: applications close
-- [ ] The next day: review everything in a dedicated special meeting, not the regular planning meeting
+- [ ] The next day: review everything in a dedicated special meeting, not the regular planning meeting; treat it as a hard "decision today" agenda so every application leaves with a decision
 - [ ] Weeks -8 to -5: notify applicants, disburse funds, comp tickets, and track each grant to completion
 
 ## Application Form
 
 Fields: name, email, total amount requested, itemized expense list, free-text comments.
 
-- [ ] Publish a per-person guidance range on the form; a 2026 applicant asked for one and none existed
-- [ ] Design the form so the amount requested reconciles against the itemized expenses (2026 note for next year)
+- [ ] Publish a per-person guidance range on the form; applicants ask for one
+- [ ] Design the form so the amount requested reconciles against the itemized expenses
 - [ ] Include hotel-booking guidance; downtown Austin is expensive
 - [ ] Ask in the CFP whether selected speakers will need travel assistance, so grant demand is visible early
 
 ## Decision Patterns
 
-From the 2025 and 2026 review meetings:
+Apply these consistently at the review meeting:
 
 - Accepted speakers requesting support are auto-priority.
-- Local applicants asking only for a ticket get a comped ticket through Pretix instead of grant funds; comps do not touch the grant budget. This included a student org requesting fees for ten members.
+- Local applicants asking only for a ticket get a comped ticket through Pretix instead of grant funds; comps do not touch the grant budget and preserve the fund for travel cases. This covers student orgs requesting fees for multiple members too.
 - Large international requests are declined, with a consistent recorded rationale: high cost relative to the fund, regional conferences nearer the applicant, visa responsibility, and applicant safety.
 - A single request equal to the entire fund gets declined.
 - Organizers of peer community conferences can be funded partly as a relationship investment.
@@ -56,11 +56,4 @@ Add a Decision column, a reviewer-notes column, and three boolean columns, and t
 ## Student Outreach
 
 Student outreach is a Marketing workstream, not a grant category; students buy the discounted student ticket class directly.
-A 2024 mass-email of Texas universities converted poorly; personal engagement at the CS-club and faculty level is the standing approach.
-
-## Lessons Learned
-
-- 2026: publish a per-person guidance range; an applicant had to ask.
-- 2026: comping local ticket-only requests preserved the fund for travel cases.
-- 2024-2026: redirected honoraria are a recurring funding source; offer speakers the option rather than assuming.
-- 2025: the review deadline works as a hard "decision today" agenda item; 2026 improved on it with the dedicated special meeting.
+Mass-emailing Texas universities converts poorly; personal engagement at the CS-club and faculty level is the standing approach.

@@ -23,9 +23,8 @@ Access hours:
 
 Rooftop Garden:
 - Evening hours (6:00 PM to midnight)
-- 2026: both Friday and Saturday nights for the 20th anniversary
-- 2027 drops the rooftop ("roof is turning into a headache"); the after party moves back off-site
-- Weather backup plan needed if used
+- Not part of the standard booking; the evening events default to off-site venues (see `network-event.md`)
+- Running rooftop events adds logistics burden (equipment security, after-hours access, weather backup); book it only with a strong reason
 
 Kitchen:
 - Cold storage available
@@ -35,20 +34,12 @@ Kitchen:
 
 First floor demo space:
 - Billed hourly with a 2-hour minimum
-- Considered as a sponsor add-on in 2026 and dropped; the demo area never sells out
-- Not part of the 2027 booking
+- Not part of the standard booking; the demo area never sells out as a sponsor add-on, so skip it
 
 ### Security
 
-Rooftop equipment security was an open question at the 2026 kickoff.
-Assess and budget for it whenever the rooftop is used, and confirm after-hours access rules with the library.
+Assess and budget for equipment security whenever the rooftop is used, and confirm after-hours access rules with the library.
 Equipment includes A/V, sponsor materials, and supplies.
-
-## Venue History
-
-The 2022 plan to rotate the conference to Dallas was abandoned.
-The hotel route failed on room-block risk and food-and-beverage minimums, and the library became the standing venue.
-Library pricing was flagged as doubling for 2027.
 
 ## Date Selection
 
@@ -63,7 +54,8 @@ See `next-year-planning.md`.
 - Balance due about 3 months before the event (Jan 10-11 for an April conference)
 - Cancellation tiers at 91+ days, 31-90 days, and 30 days
 - Insurance certificate and A/V-vendor coordination required; the library emails about this ~2 months out
-- Amendments (space or hours changes) have landed anywhere from ~11 months out (2025 cycle) to ~5 months out (2026 cycle); file them as soon as space or hours change
+- File amendments (space or hours changes) as soon as space or hours change; do not sit on them
+- Library pricing may rise year over year; get the next-year contract signed by February 1
 
 ## Timeline
 
@@ -147,7 +139,7 @@ Quotes gathered ~8-10 weeks out, deposits ~6.5 weeks out, final orders ~4.5 week
 
 See `volunteers.md` for roles, shift planning, and recruitment; the counts there are guidance, not recorded staffing levels.
 
-Day-of staffing has been a standing gap (2025 retro: "More help, please. And then rotations").
+Day-of staffing runs thin every year.
 Plan registration coverage plus a floater or two in 2-3 hour rotations, keep the shirt table staffed, and put A/V monitoring on shifts.
 
 Recruitment channels: marketing, local Python meetups, Discord, student orgs, personal asks (highest conversion).
@@ -164,6 +156,9 @@ Appreciation:
 ## Attendee Experience
 
 ### Signage
+
+Map signage on a Miro board (~6 standing signs, 5-10 single-page); check whether the library owns sign holders.
+
 - [ ] Room signs per track
 - [ ] Directional to reg, restrooms, sponsor area
 - [ ] Schedule boards or displays
@@ -239,15 +234,15 @@ Post-conference:
 - [ ] Final payment if outstanding
 - [ ] Gather feedback for next year
 
-## 2027 Venue Planning
+## Next-Year Venue Planning
 
-Library pricing was flagged as doubling for 2027; the Conference Chair gathered alternatives, and the library stayed.
-The 2027 booking is event center only: no rooftop, no demo area.
+Watch for pricing changes each cycle; if pricing jumps, the Conference Chair gathers alternatives before recommitting.
+The standard booking is the event center only: no rooftop, no demo area.
 
-How the 2026 cycle ran it (the template for future years):
+The annual rhythm:
 - Fall: scouting and quote gathering, target a signed contract by Feb 1
-- ~11 weeks out: dates chosen via the Austin events conflict spreadsheet (Jan 26 in the 2026 cycle)
-- ~9 weeks out: deposit paid (Feb 9 in the 2026 cycle)
+- ~11 weeks out: dates chosen via the Austin events conflict spreadsheet
+- ~9 weeks out: deposit paid
 
 Alternative criteria: capacity, central Austin, transit, A/V comparable, pricing, mid-April dates available.
 
@@ -272,14 +267,8 @@ Alternative criteria: capacity, central Austin, transit, A/V comparable, pricing
 - [Library Map](https://library.austintexas.gov/node/1734558)
 - The executed facility use agreement, amendments, and venue spec sheets live in the year's Drive folder under Venue
 
-## Lessons Learned
+## Pitfalls
 
-- Library has been reliable: multiple spaces, central location, kitchen, rooftop.
-- 2026: rooftop worked but was judged a headache; 2027 reverts to an established off-site after-party venue.
-- 2026: the demo space add-on was considered and dropped; the demo area never sells out.
-- Rooftop equipment security needs to be addressed whenever the rooftop is used.
-- Volunteer marketing has been thin. Personal asks help.
-- 2026: signage was mapped on a Miro board (~6 standing signs, 5-10 single-page); keep the board as the planning tool.
-- 2026: ask the library for reserved organizer parking; the parking attendant said reserving is routine.
-- Hallway noise deadening remains an open problem.
-- The room block question was raised repeatedly in 2026 and never resolved; carried forward for 2027.
+- Hallway echo carries into session rooms; sound deadening is an open problem.
+- Ask the library for reserved organizer parking; reserving is routine.
+- Decide the hotel room block question early; it tends to drift unresolved.

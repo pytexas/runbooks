@@ -42,7 +42,7 @@ Consider drawing for swag to lift response rate.
 
 ### Distribution
 
-Launch on the last conference day (2026 practice; 2024 and 2025 launched 1-3 days after, and same-day is better):
+Launch on the last conference day, not days later:
 - Announce during closing remarks
 - Email to all attendees
 - Discord post
@@ -53,7 +53,7 @@ Reminders:
 - Day 12: final reminder
 - Day 14: close
 
-Responses come in over about 2 weeks; roughly 48-50 responses was normal in 2025 and 2026.
+Responses come in over about 2 weeks; expect roughly 50.
 
 ### Survey Email
 ```
@@ -193,9 +193,9 @@ Run committee-specific mini-retros first if useful:
 
 Each committee chair owns their committee's runbook updates.
 
-## Sample Action Items (2025 → 2026)
+## Sample Action Items
 
-From 2025 retro:
+The shape a good action item takes:
 - Integrate intake form into Pretix ticket purchase (Finance)
 - Order ice online (Venue)
 - Count leftovers and pre-plan supply quantities from past years (Venue)
@@ -203,10 +203,10 @@ From 2025 retro:
 - Reword the "where did you hear about us" survey question to say "this year" (Marketing)
 - Phone numbers document (Conference)
 
-## Sponsor + Speaker Surveys (Untried)
+## Sponsor + Speaker Surveys (Optional)
 
-PyTexas has never sent sponsor or speaker surveys; the record covers the attendee survey and per-speaker feedback only.
-If a year wants to try it, send separate, shorter surveys:
+Standing practice covers the attendee survey and per-speaker feedback only.
+If a year wants to add sponsor or speaker surveys, send separate, shorter ones:
 - Sponsors (5 min)
 - Speakers (5 min)
 
@@ -228,7 +228,7 @@ Speaker questions:
 ## Per-Speaker Feedback
 
 The Speaker Committee compiles Slido data and attendee feedback-form responses into a per-speaker feedback doc and sends each speaker their own feedback.
-Done in 2026; speakers value it, and it feeds their future CFP submissions.
+Speakers value it, and it feeds their future CFP submissions.
 
 - [ ] [Speaker] Export Slido Q&A and poll data per talk
 - [ ] [Speaker] Pull talk-specific comments from the feedback form
@@ -243,13 +243,8 @@ Pointers only; Marketing and Community own the details.
 - YouTube publishing: the A/V vendor delivers unlisted videos; each video and the playlist must be flipped public. See `av.md`.
 - Export Buffer analytics and file event photos in the year's Drive folder.
 
-## Lessons Learned
+## Pitfalls
 
-- Do the retro within 2 weeks. Stale retros lose detail.
-- 4-column format works (well/poorly/ideas/actions).
-- The retro doc existing all year beats reconstructing the year in one meeting.
-- Update runbooks immediately while it's fresh.
-- 2025-2026: ~48-50 survey responses over 2 weeks is the normal yield. A drawing or incentive could lift it.
-- Launch the survey on the last conference day, not days later (2026 practice).
-- Action items need owners and dates or they don't happen.
-- "We really should write all of this down" - yes. Runbooks are the deliverable.
+- Stale retros lose detail; hold the meeting within 2 weeks, no exceptions.
+- Action items without owners and dates do not happen.
+- Runbooks are the deliverable; update them while the retro is fresh, not next cycle.

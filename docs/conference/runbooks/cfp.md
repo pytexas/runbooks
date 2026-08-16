@@ -4,15 +4,15 @@ Speaker Committee owns this. Platform: [Pretalx](https://pretalx.com).
 
 See `speaker-committee-runbook.md` for full speaker workflow.
 
-## Timeline (2026)
+## Timeline
 
 - October 1: CFP opens
 - December 1: early bird tickets open
-- December 7-10: CFP closes
+- Early December: CFP closes
 - December (holidays): review (min 2 full weeks)
 - Early January: speaker notifications
-- Week of January 7: speaker list announced
-- Mid-January (~Jan 19): early bird closes
+- Mid-January: speaker list announced
+- Mid-January: early bird closes
 
 Start CFP prep 2 months before opening.
 
@@ -35,6 +35,9 @@ Start CFP prep 2 months before opening.
 - [ ] Discord post
 
 ### Past Speaker Outreach
+
+Direct outreach to past speakers generates quality submissions; treat it as a core part of the campaign, not an extra.
+
 - [ ] Confirm access to the per-year past-speaker Google Group (a new group each year; check with the outgoing speaker chair)
 - [ ] Prepare CFP invitation email for past speakers
 
@@ -48,7 +51,7 @@ Start CFP prep 2 months before opening.
 
 ### Reminders
 - Mid-window push (~November 1), including the Texas meetup lists
-- Final week countdown (Dec 1-7)
+- Final week countdown before close
 
 ### Support
 - [ ] Respond to inquiries within 24-48 hours
@@ -81,6 +84,8 @@ Agenda:
 5. Waitlist
 6. Track + schedule integration
 
+Record the selection rationale; it is institutional memory for next year's committee.
+
 ## Notifications
 
 ### Acceptance (Early January)
@@ -100,7 +105,7 @@ Email includes:
 ### Rejection
 
 Send at notification time, alongside the acceptances: reject everything below the ordered waitlist promptly.
-Only waitlisted speakers wait (2026 held an ordered waitlist of 11 with the top 4 flagged and rejected everyone below it promptly).
+Only waitlisted speakers wait; keep the waitlist ordered (roughly 10 deep) with the top few flagged.
 
 Email:
 - Thanks for submitting
@@ -117,7 +122,7 @@ Email:
 
 ## Post-Notification
 
-### Week of January 7
+### Speaker Announcement (Mid-January)
 - [ ] Update site with speaker lineup
 - [ ] Speaker spotlight graphics for social (the "Guess Who" teaser-then-reveal series)
 - [ ] Remind attendees early bird closes mid-January
@@ -125,7 +130,7 @@ Email:
 ### Speaker Info Collection
 
 Send the speaker information form (Google Form) with the acceptance email, not later.
-Chasing this data after the fact is painful; in the 2026 cycle only 6 of about 15 speakers had responded when marketing first needed it.
+Chasing this data after the fact is painful; response rates crater once the acceptance moment passes.
 
 - [ ] High-res headshot
 - [ ] Social handles
@@ -150,11 +155,3 @@ Tutorial recruiting runs earlier than the talk CFP because tutorials need more p
 
 - [Pretalx](https://pretalx.com) (conference page at `pretalx.com/pytexas-[YEAR]`)
 - The past-speaker Google Group and CFP campaign docs live in the year's Drive folder
-
-## Lessons Learned
-
-- Google Group per year for past speakers works.
-- Direct outreach to past speakers generates quality submissions.
-- Pretalx handles review workflow.
-- Track selection rationale for institutional memory.
-- Community voting (gauge interest, not guarantee acceptance) under consideration for future year.

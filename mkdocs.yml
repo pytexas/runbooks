@@ -36,43 +36,46 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Conference:
-    - Documentation: conference/index.md
-    - Roles:
-      - Conference Chair: conference/roles/conf-chair.md
-      - Speaker Chair: conference/roles/speaker-chair.md
-      - Finance Chair: conference/roles/fin-chair.md
-      - Marketing Chair: conference/roles/mark-chair.md
-      - Venue Chair: conference/roles/venue-chair.md
-      - Community Chair: conference/roles/community-chair.md
-      - Onboarding a New Lead: conference/runbooks/onboarding-new-lead.md
-    - Kickoff Meeting: conference/runbooks/kickoff-meeting.md
+    - Overview: conference/index.md
     - Master Timeline: conference/runbooks/conference-master-timeline.md
-    - Next-Year Planning: conference/runbooks/next-year-planning.md
-    - Day-of Operations: conference/runbooks/day-of-operations-guide.md
-    - Run of Show: conference/runbooks/run-of-show.md
-    - Budget Planning: conference/runbooks/budget-planning-template.md
-    - Committee Runbooks:
-      - Conference: conference/runbooks/conference-committee-runbook.md
-      - Speaker: conference/runbooks/speaker-committee-runbook.md
-      - Finance: conference/runbooks/finance-committee-runbook.md
-      - Marketing: conference/runbooks/marketing-committee-runbook.md
-      - Venue: conference/runbooks/venue-committee-runbook.md
-      - Community: conference/runbooks/community-committee-runbook.md
-    - Topic Runbooks:
+    - Conference Chair:
+      - The Role: conference/roles/conf-chair.md
+      - Committee Workflow: conference/runbooks/conference-committee-runbook.md
+      - Kickoff Meeting: conference/runbooks/kickoff-meeting.md
+      - Next-Year Planning: conference/runbooks/next-year-planning.md
+      - Run of Show: conference/runbooks/run-of-show.md
+      - Day-of Operations: conference/runbooks/day-of-operations-guide.md
+      - Post-Event: conference/runbooks/post-event.md
+      - Onboarding a New Lead: conference/runbooks/onboarding-new-lead.md
+    - Speaker Committee:
+      - Speaker Chair: conference/roles/speaker-chair.md
+      - Committee Workflow: conference/runbooks/speaker-committee-runbook.md
       - Call for Proposals: conference/runbooks/cfp.md
       - Keynote: conference/runbooks/keynote.md
+    - Finance Committee:
+      - Finance Chair: conference/roles/fin-chair.md
+      - Committee Workflow: conference/runbooks/finance-committee-runbook.md
+      - Budget Planning: conference/runbooks/budget-planning-template.md
       - Sponsorship: conference/runbooks/sponsorship.md
+      - Opportunity Grants: conference/runbooks/grants.md
       - Registration: conference/runbooks/registration.md
+    - Marketing Committee:
+      - Marketing Chair: conference/roles/mark-chair.md
+      - Committee Workflow: conference/runbooks/marketing-committee-runbook.md
+      - Swag: conference/runbooks/swag.md
+    - Venue Committee:
+      - Venue Chair: conference/roles/venue-chair.md
+      - Committee Workflow: conference/runbooks/venue-committee-runbook.md
       - Venue: conference/runbooks/venue.md
       - A/V Vendor: conference/runbooks/av.md
-      - Discord and Hybrid: conference/runbooks/discord.md
-      - Swag: conference/runbooks/swag.md
-      - Networking Event: conference/runbooks/network-event.md
-      - Opportunity Grants: conference/runbooks/grants.md
-      - Volunteers: conference/runbooks/volunteers.md
-      - Day-of Supplies: conference/runbooks/day-of-supplies.md
-      - Post-Event: conference/runbooks/post-event.md
       - Catering: conference/runbooks/catering.md
+      - Networking Event: conference/runbooks/network-event.md
+      - Day-of Supplies: conference/runbooks/day-of-supplies.md
+      - Volunteers: conference/runbooks/volunteers.md
+    - Community Committee:
+      - Community Chair: conference/roles/community-chair.md
+      - Committee Workflow: conference/runbooks/community-committee-runbook.md
+      - Discord and Hybrid: conference/runbooks/discord.md
       - Code of Conduct: conference/runbooks/coc.md
       - Attendee Feedback: conference/runbooks/feedback.md
   - Virtual Meetup:

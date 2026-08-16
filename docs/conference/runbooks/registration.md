@@ -16,16 +16,16 @@ Sponsors additionally pay by EFT or purchase order; attendees do not.
 - Month -5.5 to -5 (November): Pretix setup, including demographic questions
 - December 1: early bird opens
 - Week of January 7: speaker list published, drives early bird signups
-- Mid-to-late January (~Jan 19 in the 2026 cycle): early bird closes, regular opens
+- Mid-January: early bird closes, regular opens
 - Through the conference: regular registration stays open, including day-of walk-ups
-- Only a sellout closes registration (2025 sold out ~2.5 weeks out; 2026 never did)
+- Only a sellout closes registration; some years sell out weeks early and some never do
 
 ## Ticket Types
 
 ### Early Bird
 - Period: Dec 1 to mid-January
 - See the budget sheet for pricing
-- Capped per class to create urgency (2025 capped individual and corporate early bird)
+- Cap each early bird class (individual and corporate) to create urgency
 
 ### Regular
 - Period: from early bird close through the conference, including day-of
@@ -39,15 +39,14 @@ Sponsors additionally pay by EFT or purchase order; attendees do not.
 
 ### Virtual
 - Streaming access
-- Cap was 350; roughly 30-48 were actually sold or comped in 2025, and sales collapsed in 2026 (1 sold by late January)
-- Meetup organizers historically got free virtual tickets
+- Demand is small: expect a few dozen sold or comped at most, far below any cap
+- Meetup organizers get free virtual tickets
 - All in-person tickets include virtual access
 
 ### Corporate
 - Corporate ticket classes plus bulk packages (10+ at a corporate discount)
 - No sponsor benefits attached; logos and thank-you slides belong to sponsor tiers
 - Works as a foot in the door for companies without sponsorship budgets; track buyers for next year's sponsor outreach
-- A bundle of 4 corporate tickets as a sponsor-tier equivalent was logged as an idea in the 2026 cycle and never adopted
 
 ### Opportunity Grants
 
@@ -57,7 +56,7 @@ Handled by Finance. See `grants.md`. Grant recipients get comped tickets through
 
 - [ ] Ticket types + pricing
 - [ ] Quantities + limits
-- [ ] Early bird end date (mid-January; 2026 set Jan 14 and moved it to Jan 19)
+- [ ] Early bird end date (mid-January)
 - [ ] Required fields:
   - Name, email
   - Company/affiliation (optional)
@@ -66,7 +65,7 @@ Handled by Finance. See `grants.md`. Grant recipients get comped tickets through
   - Accessibility needs
   - Pronouns (optional)
   - How heard about PyTexas
-- [ ] Demographic questions (added 2026): source the field list from the Registration Intake form in the year's Drive folder rather than inventing a new set
+- [ ] Demographic questions: source the field list from the Registration Intake form in the year's Drive folder rather than inventing a new set
 - [ ] Email confirmation templates
 - [ ] End-to-end test
 - [ ] Stripe payment processing
@@ -86,13 +85,13 @@ Coordinate launch announcements with Marketing. Coordinate pricing + refund poli
 - [ ] Discord + community channels
 - [ ] Monitor for issues
 
-2026 set a goal of selling out one month early and missed it (about a third of capacity sold at 5 weeks out); push sales earlier and harder than feels necessary.
+Push sales earlier and harder than feels necessary; sell-out-early goals slip when the push starts late.
 
 ## Week of January 7
 
 Publishing speakers drives early bird sales.
 
-- [ ] Marketing launches speaker announcements (2026 revealed speakers Jan 15 with a teaser series)
+- [ ] Marketing launches speaker announcements (reveal mid-January, typically with a teaser series)
 - [ ] Highlight the early bird deadline
 - [ ] "Last week of early bird" countdown
 - [ ] Share speaker bios + abstracts
@@ -110,7 +109,7 @@ Publishing speakers drives early bird sales.
 - [ ] Weekly sales monitoring; Finance files the weekly Pretix accounting report every Monday
 - [ ] Export attendee data 2 weeks out for badge printing
 - [ ] Pre-conference emails (Community)
-- [ ] Capacity planning with Venue
+- [ ] Capacity planning with Venue; the sell-out number is 250 in-person, stretchable to 275
 - [ ] Keep registration open; only a sellout closes it
 
 ## Data Exports
@@ -154,8 +153,8 @@ Choose sturdy cardstock.
 - [ ] Order from ConferenceBadges.com (template, print-ahead plus day-of)
 - [ ] Stock blank badges and a label printer for walk-ups and late registrants
 
-The badge order slipped to the final two weeks in both 2025 and 2026; it is a recurring failure.
-Budget it weeks earlier, and expect one more export for late sales since registration stays open.
+Badges tend to slip late; order them well before the final two weeks.
+Expect one more export for late sales since registration stays open.
 
 ### Lanyards
 - Lanyard sponsor provides branded
@@ -172,6 +171,7 @@ See `day-of-operations-guide.md` for the full Friday/Saturday/Sunday flow.
 Highlights:
 - 2 on check-in laptops, 1-2 on badges
 - 3-table bubble layout with room for attendee backpacks
+- Organize pre-printed badges alphabetically
 - Lanyards on a stand, separate from badges (not piles!)
 - Test the label printer before doors
 - Everything set by 8:00 exactly
@@ -207,7 +207,7 @@ Day-of paid swag runs through Pretix voucher QR codes, not cash.
 
 ## Virtual Attendees
 
-2025 sold or comped roughly 30-48 virtual tickets against a 350 cap; 2026 sales collapsed further.
+Virtual demand is small, a few dozen tickets at most against a much larger cap.
 Size virtual effort accordingly.
 
 - Streaming link emailed
@@ -245,17 +245,8 @@ Post-registration:
 - [Pretix Docs](https://docs.pretix.eu/)
 - The year's budget sheet and registration artifacts live in the year's Drive folder
 
-## Lessons Learned
+## Pitfalls
 
-- Pretix handles the workflow. Retro folklore: "Volunteers is better than Pretix, Pretix is better than Tito."
-- Pre-printed badges speed check-in; blank badges plus a label printer cover everyone else.
-- Early bird pricing creates urgency; caps per class help.
-- Alphabetical badge organization helps.
-- Shirts are a paid pre-order add-on redeemed by poker chip; a free-shirt-for-all model was debated in 2026 and not adopted. Say loudly whether a shirt comes with the ticket; attendee confusion recurs.
-- Communication between check-in and the printing station matters.
-- The intake form doubles as the demographics instrument; keep working toward folding it into Pretix.
-- Lanyards on stands. Tangled piles bottleneck reg.
-- The Discord bot fails on bulk corporate purchases (registering email vs attendee email). Have a manual role override ready.
-- 3-table bubble layout leaves room for attendee backpacks.
+- Shirts are a paid pre-order add-on redeemed by poker chip. Say loudly whether a shirt comes with the ticket; attendee confusion recurs.
 - Ticket messaging must state which days each ticket covers; attendees without tutorial tickets show up Friday when the site advertises a three-day range.
-- For scale reference: 2024 sold 276 with 229 checked in; 2025 sold out its 250 with oversubscription to ~275 discussed.
+- The Discord bot fails on bulk corporate purchases (registering email vs attendee email). Have a manual role override ready.

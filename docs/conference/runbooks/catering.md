@@ -15,14 +15,14 @@ Food and beverage is the largest expense category in the budget, and the caterin
 - [ ] Week -6.5: pay deposits (roughly half of each total)
 - [ ] Week -6: build the catering plan sheet (structure below)
 - [ ] Week -4.5: place final orders; order linens (American Party Rental; re-send last year's invoice)
-- [ ] Weeks -2 to -1: collect dietary restrictions (2026 did this the final week; do it earlier)
+- [ ] Weeks -2 to -1: collect dietary restrictions; the final week is too late
 - [ ] Days -4 to -1: final plan updates; confirm delivery windows with every vendor
 - [ ] Friday morning: Costco + HEB supply run during the first tutorial
 
-## Current Vendor Stack (2026)
+## Current Vendor Stack
 
-- Breakfast: Tacodeli taco delivery Saturday and Sunday at 7:30 AM, about 400 tacos per day, flour and corn, with vegetarian and vegan lines. Kolaches added Sunday. (Rudy's delivered in 2024-2025.)
-- Coffee: Doxa barista coffee bar Saturday and Sunday, heavily praised in attendee feedback (watch the line length). Houndstooth urn pickup is the alternative: urns picked up at 7:15 AM, returned after lunch. Central Market coffee boxes cover Friday.
+- Breakfast: Tacodeli taco delivery Saturday and Sunday at 7:30 AM, about 400 tacos per day, flour and corn, with vegetarian and vegan lines. Kolaches added Sunday.
+- Coffee: Doxa barista coffee bar Saturday and Sunday, heavily praised in attendee feedback and worth the cost; manage the line so people do not miss talk openings. Houndstooth urn pickup is the alternative: urns picked up at 7:15 AM, returned after lunch. Central Market coffee boxes cover Friday.
 - Friday breakfast: Central Market muffins, fruit, and coffee boxes.
 - Afternoon break: Central Market platters (cookies, mini tartlets) delivered mid-afternoon.
 - Bulk snacks, sodas, and paper goods: Costco + HEB runs.
@@ -40,7 +40,7 @@ One spreadsheet, built about Week -6 and updated through the day before the conf
 3. Per-day estimated and actual totals, tax and tip lines, and an event-wide total against the stated maximum.
 4. A "Who's Getting What" second tab: item-level shopping quantities (sodas by flavor, sparkling water, bottled water, fruit by the pound, plates/napkins/cutlery counts) with an Organizer column naming who buys each item.
 
-Tip on tips: set the tip percentage deliberately at order time; a 2026 mistake ("I tipped less on accident and I can't change it") could not be corrected after the fact.
+Tip on tips: set the tip percentage deliberately at order time; a mis-entered tip cannot be corrected after the order is placed.
 
 ## Dietary Handling
 
@@ -60,16 +60,16 @@ This doubles as a networking tactic.
 - [ ] Assign a captain per restaurant per day
 - [ ] Put the restaurant map on a slide shown before lunch dismissal
 
-"Plan lunch plans early (again)" is a direct quote from the 2026 minutes; this lands late every year.
+Lunch planning lands late every year; start it well before conference week.
 
 ## Quantity Calibration
 
 Count leftovers every year and feed the counts back into next year's plan.
 Known calibration data:
 
-- Diet and zero sodas, sparkling water, and fruit are the hits; among regular sodas, Coke was the most consumed and Dr Pepper had the most left over (2025 counts).
+- Diet and zero sodas, sparkling water, and fruit are the hits; among regular sodas, Coke goes fastest and Dr Pepper gets left over.
 - Expect 40-50 lb of bananas to go over the weekend.
-- Muffins and kolaches have been over-ordered two years running; order fewer.
+- Muffins and kolaches tend to be over-ordered; order fewer.
 - Buy light on Friday to gauge the year's preferences, then buy in bulk for the weekend.
 - Any food put out is gone within an hour, except one unpredictable "forbidden item of the year."
 - Estimate quantities per person and extrapolate with a formula instead of guessing bulk numbers.
@@ -84,12 +84,8 @@ Known calibration data:
 - [ ] Leftover policy, decided in advance: give leftovers to library staff
 - [ ] Count leftovers at teardown for next year's calibration
 
-## Lessons Learned
+## Pitfalls
 
-- Coffee is the largest catering friction and the recurring budget overrun; plan it first, not last. (2026)
-- The Doxa barista bar was heavily praised and worth the cost; manage the line so people do not miss talk openings. (2026)
-- Breakfast, coffee, and snack planning starts late every year; the timeline above is the fix. (2025, 2026)
-- Ordering ice online worked very well. (2025)
-- A special catering session split out of the regular meeting kept the regular agenda on time. (2026)
-- Deciding the leftover policy in advance prevents ad-hoc calls on the day. (2025)
-- Consider a true caterer or kitchen space; organizers spent too much time running to stores. (2025)
+- Coffee is the largest catering friction and the recurring budget overrun; plan it first, not last.
+- Breakfast, coffee, and snack planning starts late every year; the timeline above is the fix.
+- Store runs eat organizer time; consider a full-service caterer or kitchen space.

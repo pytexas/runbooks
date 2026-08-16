@@ -20,6 +20,7 @@ See `speaker-committee-runbook.md`.
 
 Tool: Google Form, opened at the kickoff meeting and closed end of September.
 The form and its responses live in the year's Drive folder under Speakers.
+Community nomination generates a more diverse candidate pool than organizer brainstorming alone; promote the form widely.
 
 Form fields:
 - Nominee name
@@ -47,7 +48,7 @@ Each organizer scores every candidate from +2 to -2.
 Compile the results into a rankings doc with vote scores, then decide the ordered invite list as a team (late October).
 
 The invite order is the plan.
-The 2026 list ran six candidates deep, and the two eventual keynoters were #2 and #5 on it.
+Rank the list at least five or six candidates deep; invitations often go several names down before someone accepts.
 
 Criteria:
 - Speaking experience (quality, stage presence)
@@ -64,8 +65,8 @@ Criteria:
 - Backup options
 - Ordered invite list
 
-How many keynotes? 2026 ran two, one each day, right after opening remarks (~45 minutes each).
-A third sponsor-funded slot was floated and not used.
+The standard format is two keynotes, one each day, right after opening remarks (~45 minutes each).
+A sponsor-funded third slot is possible if a sponsor wants it.
 Decide the count before outreach.
 
 ### Budget
@@ -79,18 +80,18 @@ Keynote benefits typically:
 - Premium schedule slot
 
 Coordinate with Finance on the keynote budget, honorarium policy, and travel/hotel limits before outreach, so the offer in the invitation is real.
-Keynoters sometimes redirect or donate back their honorarium; redirected honoraria have historically seeded the opportunity grant fund (2024-2026).
+Keynoters sometimes redirect or donate back their honorarium; redirected honoraria can seed the opportunity grant fund.
 See `grants.md`.
 
 ## Outreach
 
 ### Initial Contact (November)
 ```
-Subject: PyTexas 2026 keynote invitation
+Subject: PyTexas [YEAR] keynote invitation
 
 Hi [NAME],
 
-PyTexas 2026 is April 17-19 in Austin. It's our 20th anniversary. Expecting [N] attendees.
+PyTexas [YEAR] is [DATES] in [CITY]. Expecting [N] attendees.
 
 Your work on [SPECIFIC AREA] would resonate with our audience.
 
@@ -110,6 +111,7 @@ Open to a brief call to discuss?
 - 1 week: follow up if no response
 - 2 weeks: move to next candidate
 - Simultaneous outreach OK, but prepare for multiple yeses
+- Some candidates take weeks to respond; build buffer into the outreach window
 
 Be honest about timeline + backup plans. If they're #2 and #1 hasn't responded, say so.
 
@@ -140,7 +142,7 @@ Inform committees:
 
 ## Public Announcement
 
-Coordinate with Marketing for the January speaker-list announcement (week of January 7, while early bird is still open).
+Coordinate with Marketing for the mid-January speaker-list announcement, while early bird is still open.
 
 Include:
 - Keynote names + photos
@@ -227,12 +229,3 @@ When the invite order is decided, note which declined candidates might take a tu
 ## Resources
 
 The nomination form, election form, rankings doc, and campaign planning docs live in the year's Drive folder under Speakers and Marketing.
-
-## Lessons Learned
-
-- Community nomination generates diverse suggestions.
-- Rankings doc helps committee track + discuss.
-- Early outreach (Nov-Dec) gives speakers planning time.
-- Need clearer decision criteria for number of keynotes.
-- Document honorarium + travel policies before next round.
-- Some candidates take weeks to respond. Build in buffer.

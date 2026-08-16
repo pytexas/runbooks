@@ -6,9 +6,8 @@ See `discord.md`, `post-event.md`, `feedback.md`, `coc.md`.
 
 Attendance context for planning:
 
-- 2024 in-person: 276 tickets sold, 229 checked in.
-- 2025 in-person: sold out at 250, with oversubscription to ~275 discussed.
-- Virtual: 350 was the 2025 ticket cap, not attendance; only ~30-48 virtual tickets were actually sold or comped in 2025, and 2026 sold almost none (1 by late January).
+- In-person sells out around 250, stretchable to ~275.
+- Virtual ticket sales are tiny regardless of the cap; expect a handful to a few dozen.
 
 Treat virtual as a low-cost overflow channel, not a second audience to size for.
 
@@ -50,7 +49,7 @@ See `coc.md` for reporting channels, responders, and the enforcement ladder.
 - [ ] Plan email touchpoints: CFP open, early bird, CFP close, schedule, regular tickets, pre-conference reminders, day-before, thank you, survey
 - [ ] Build templates (see below)
 - [ ] Coordinate with Finance (ticket emails) and Marketing
-- [ ] Ticket messaging must state which days each ticket covers; in 2025 attendees without tutorial tickets showed up Friday because the site listed a three-day range
+- [ ] Ticket messaging must state which days each ticket covers; when the site lists a three-day range, attendees without tutorial tickets show up Friday
 
 ### Intake Form
 - [ ] Push for integration into ticket purchase (not a separate form)
@@ -64,22 +63,22 @@ See `coc.md` for reporting channels, responders, and the enforcement ladder.
 ### Community Outreach
 - [ ] Ping the four Texas metro meetups: Austin, DFW, Houston, San Antonio
 - [ ] Meetup presentations, community announcements, cross-promotion
-- [ ] Free virtual tickets for meetup organizers as a thank-you (2025 practice)
+- [ ] Free virtual tickets for meetup organizers as a thank-you
 
 ### Networking Formats
 - [ ] Recruit walk leaders for organizer-led group lunches
-- [ ] Plan Open Spaces (2026: ran in a side area; the survey said schedule them opposite talks less)
-- [ ] Plan a Nature Walk or similar lunch activity with a recruited leader (2026)
-- [ ] The 2026 survey asked for more networking formats: roundtables, breakout sessions, a women-of-Python gathering; consider adding one
+- [ ] Plan Open Spaces in a side area; schedule them opposite talks as little as possible
+- [ ] Plan a nature walk or similar lunch activity with a recruited leader
+- [ ] Post-event surveys keep asking for more networking formats (roundtables, breakout sessions, a women-of-Python gathering); consider adding one
 
 ### Day-of Coordination Tool
 - [ ] Pick ONE chat tool for day-of coordination and commit to it
-- [ ] 2024's juggling of Discord plus Slack plus Slido simultaneously was painful; do not repeat it
+- [ ] Juggling Discord plus Slack plus Slido simultaneously is painful; do not do it
 
 ### Streaming Coverage Plan
 - [ ] Name the primary streaming and chat operator
 - [ ] Train at least one backup who knows the full YouTube plus Discord workflow
-- [ ] 2026 ran one person solo for the whole conference; illness would have taken down the stream
+- [ ] A solo operator all weekend is an illness away from no stream
 
 ### Slido
 - [ ] Single-event license; moderation settings to block spam
@@ -88,7 +87,7 @@ See `coc.md` for reporting channels, responders, and the enforcement ladder.
 
 ## Final Weeks
 
-- [ ] Test stream at least one week ahead (2026 rule)
+- [ ] Test stream at least one week ahead
 - [ ] Send the "1 week before" email
 - [ ] Daily Discord countdown
 - [ ] Final bot test, coverage confirmed, critical info pinned
@@ -101,11 +100,11 @@ See `coc.md` for reporting channels, responders, and the enforcement ladder.
 ### Every Day
 - [ ] Go live 10-15 minutes before the first session
 - [ ] Welcome post in #general with a CoC reminder
-- [ ] Start and maintain the link-compilation doc: every link shared in the conference-chat channel gets compiled into one doc, organized per day
+- [ ] Start and maintain the link-compilation doc: every link shared in the conference-chat channel gets compiled into one doc, organized per day; the compiled doc becomes a lasting artifact
 - [ ] Monitor channels, respond to registration issues, manual role assignment for `/register` failures
 
 ### Per Talk
-- [ ] Post speaker info as each talk starts: name, LinkedIn or handles, talk title, slides link when available (2025 practice, well received)
+- [ ] Post speaker info as each talk starts: name, LinkedIn or handles, talk title, slides link when available; attendees appreciate these posts
 - [ ] Moderate Slido before display; archive questions after each talk
 - [ ] Point overflow Q&A to the conference-chat channel; speakers answer there after their slots
 
@@ -144,9 +143,7 @@ See `feedback.md` and `post-event.md`.
 - [ ] Coordinate social with Marketing
 - [ ] Welcome newcomers
 
-### 2027 Note
-Organizer coordination moves fully to Discord for the 2027 cycle, with a webhook feeding ticket purchases into a channel.
-Per-committee Slack channels retire.
+Organizer coordination also runs in Discord, with a webhook feeding ticket purchases into a channel.
 
 ## Email Templates
 
@@ -192,7 +189,7 @@ Accessibility: contact [EMAIL] for needs.
 Discord: [LINK]
 Networking event: Saturday [TIME] at [VENUE]. [TICKET INFO].
 
-Day-of issues: ask any organizer in a yellow staff shirt or post in #help.
+Day-of issues: ask any organizer in a [SHIRT COLOR] staff shirt or post in #help.
 
 The PyTexas [YEAR] Team
 ```
@@ -212,7 +209,7 @@ Tomorrow:
 8:00 doors and breakfast
 9:00 opening remarks, then keynote
 
-First-timer? Introduce yourself in Discord. Organizers wear yellow staff shirts.
+First-timer? Introduce yourself in Discord. Organizers wear [SHIRT COLOR] staff shirts.
 
 The PyTexas [YEAR] Team
 ```
@@ -290,15 +287,7 @@ Questions via Slido: [LINK]
 - Finance: registration issues, ticket comms, opportunity grant announcements
 - Venue: attendee logistics questions, accessibility, signage printing, A/V and stream coordination
 
-## Lessons Learned
+## Pitfalls
 
-- 2026: one person ran YouTube plus Discord chat solo all weekend; at least one backup must know the workflow.
-- 2026: test stream at least a week ahead; go live 10-15 minutes early.
-- 2025: posting speaker links and LinkedIn in Discord as talks progressed was well received.
-- 2025: compile every link shared in conference-chat into one doc per day; the compiled doc becomes a lasting artifact.
-- 2024: monitoring Discord plus Slack plus Slido at once was painful; pick one day-of coordination tool.
-- 2025: date confusion is real; attendees without tutorial tickets showed up Friday because the site listed a three-day range. Ticket messaging must say which days each ticket covers.
-- The registration bot fails on bulk corporate purchases (registering email vs attendee email); keep a manual override.
-- Virtual sales are small and shrinking; 2025 sold or comped ~30-48 against a 350 cap, 2026 near zero. Bundle virtual access with in-person tickets and keep the workload proportional.
-- 2026: Open Spaces, the Nature Walk, and organizer-led group lunches all landed; the survey asked for more networking formats.
-- Integrate the intake form into ticket purchase; the separate form costs registration time.
+- Bundle virtual access with in-person tickets and keep the virtual workload proportional to its tiny audience.
+- A separate intake form costs registration time; integrate it into ticket purchase.

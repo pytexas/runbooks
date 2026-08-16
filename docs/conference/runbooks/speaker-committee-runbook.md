@@ -12,7 +12,7 @@ See `cfp.md`, `keynote.md`, `run-of-show.md`, and `conference-master-timeline.md
 
 Tutorials are recruited by direct invitation, not through the open CFP.
 Plan on two community presenters plus a possible sponsored workshop.
-The 2026 cycle confirmed its first tutorial presenter in person at PyCon, eleven months out.
+Aim to confirm the first tutorial presenter in person at PyCon, eleven months out.
 
 ## Month -8 (Mid-August): Kickoff
 
@@ -38,15 +38,15 @@ The 2026 cycle confirmed its first tutorial presenter in person at PyCon, eleven
 - [ ] Run the keynote organizer election (ranked ballot, each candidate scored +2 to -2)
 
 The CFP runs October 1 to early December, a 9-10 week window.
-The 2025 cycle closed December 1; the 2026 cycle closed December 10 after a short extension.
-Volume reference: 63 submissions in the 2024 cycle (a 3.5-month window, since shortened); 24 in the 2025 cycle (2-month window).
+A short extension is an option if volume is low near the deadline.
+Expect a few dozen submissions.
 
 ### Keynote Invite Order
 
 - [ ] Compile election results into a rankings doc and decide the ordered invite list (late October)
 - [ ] Work down the list in order; be ready to go deep
 
-The 2026 keynoters were #2 and #5 on the invite-order list.
+Invitations often go several names deep before someone accepts.
 The ranked backup list is the plan, not a contingency.
 See `keynote.md` for outreach mechanics.
 
@@ -58,11 +58,10 @@ See `keynote.md` for outreach mechanics.
 - [ ] Hold an in-person decision meeting to pick the lineup and build an ordered waitlist
 - [ ] Send the speaker information form to accepted speakers at acceptance time (mid-December): name, socials, photo, logistics
 
-Target around 14-15 talks for the single track.
-2026 confirmed 15 against a 14-talk target, with an ordered waitlist of 11 and the top 4 flagged.
+Target roughly 14 talks for the single track and keep an ordered waitlist of about 10 with the top few flagged.
 
 Collect speaker name, socials, and photo at acceptance, not later.
-When 2026 marketing first asked for this data late, only 6 of about 15 speakers had responded.
+Response rates crater once the acceptance moment passes, and Marketing will need the data before speakers get around to it.
 
 ## Month -3.5 (Around January 1): Notifications
 
@@ -72,7 +71,9 @@ When 2026 marketing first asked for this data late, only 6 of about 15 speakers 
 - [ ] Offer standby speakers free tickets
 - [ ] Hand speaker data to Marketing for the reveal campaign (~January 15)
 
-Late dropouts happen even after the schedule is final; one 2025 speaker dropped about 2.5 weeks out.
+Give Marketing the actual headshot and schedule files, never links into Pretalx; those links break later and take the site down with them.
+
+Late dropouts happen even after the schedule is final, sometimes just weeks before the conference.
 Hold ordered alternates and keep slack in the schedule.
 
 ## Week -11 to -7: Schedule
@@ -84,8 +85,7 @@ Hold ordered alternates and keep slack in the schedule.
 - [ ] Publish the schedule (the PSF grant application requires a published schedule; see `finance-committee-runbook.md`)
 - [ ] Get Slido and StageTimer single-event quotes (~Week -7.5)
 
-Remote talks are high-risk.
-2026: the remote talk's audio failure was the single most-criticized program item in attendee feedback.
+Remote talks are high-risk; an audio failure on one draws more criticism than anything else in the program.
 If you accept one, rehearse it end-to-end with the A/V vendor and hold a standby talk.
 
 ## Week -2 to -1: Final Prep
@@ -110,8 +110,7 @@ Lightning talk submissions exceed slots every year; organizers curate an ordered
 Speakers don't read emails.
 The KBYG is a reference; the in-person Friday briefing is the real briefing.
 
-2025: a tutorial presenter flagged poor power access.
-Power strips at every table.
+Tutorial rooms need power strips at every table; presenters notice when they're missing.
 
 ### Saturday and Sunday
 
@@ -232,13 +231,9 @@ The PyTexas [YEAR] Speaker Committee
 - Venue: A/V requirements, green room, Friday dinner headcount
 - Community: Discord speaker roles, streaming, recording publishing
 
-## Lessons Learned
+## Pitfalls
 
-- 2026: the remote talk's audio failure was the most-criticized program item; treat remote talks as high-risk.
-- 2026: collect name/socials/photo at acceptance; only 6 of ~15 speakers answered a later request.
-- 2026: the keynoters were #2 and #5 on the invite-order list; keep the ranked backup list.
-- 2025: a speaker dropped ~2.5 weeks out after the schedule was final; hold ordered alternates.
-- 2025: the 2024 site broke because of links into Pretalx; keep headshots and schedule assets out of Pretalx.
-- Every year: speakers don't read emails; brief them in person at the Friday dinner.
-- Every year: never let the schedule run early; keep trivia filler ready.
-- Every year: enforce the on-deck table when the prior talk starts; tech check during the changeover.
+- Keep headshots and schedule assets out of Pretalx; the site must host its own copies.
+- Speakers don't read emails; brief them in person at the Friday dinner.
+- Never let the schedule run early; keep trivia filler ready.
+- Enforce the on-deck table when the prior talk starts; tech check during the changeover.

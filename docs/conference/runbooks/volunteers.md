@@ -8,11 +8,9 @@ See `venue-committee-runbook.md`.
 
 ## Why Volunteers Matter
 
-2025 retro: "More help, please. And then rotations."
-
-Day-of staffing has been organizers plus whoever's free.
-That worked at 250 attendees but does not scale, and it leaves no slack for rotations or breaks.
-In 2024, people walked up at registration asking how to volunteer, and an intake form had to be created mid-conference.
+Day-of staffing defaults to organizers plus whoever's free.
+That barely works at 250 attendees and leaves no slack for rotations or breaks.
+Without a published intake form, people walk up at registration asking how to volunteer and a form gets built mid-conference.
 
 ## Recruitment (Month -2)
 
@@ -67,7 +65,7 @@ Before doors open (15-30 min):
 - Show locations
 - Communication channel and escalation path (the phone roster lives in the Org Info Sheet)
 - Emergency procedures
-- Identifier check (organizers wear yellow staff shirts; the speaker team wears tie-dye)
+- Identifier check (organizers wear staff shirts in the year's organizer color; a second distinct style marks the speaker team)
 
 Print a role description per volunteer:
 
@@ -192,15 +190,7 @@ Long-term:
 - Track for next year's recruitment
 - Invite top performers to organizer onboarding (see `onboarding-new-lead.md`)
 
-## Lessons Learned
+## Pitfalls
 
-- 2024: no formal volunteer program; an intake form was created mid-conference when people asked to help. Publish it ahead of time.
-- 2025: "More help, please. And then rotations."
-- Brief with a printed role description per volunteer.
-- An identifier (shirt color, lanyard, ribbon) matters.
-- Station leads work better than a central coordinator alone.
-- Personal asks beat mass email.
-- More than one person should know how to check people in.
-- A/V monitoring needs shifts.
-- Pick one chat tool for day-of coordination (2024 monitored Discord, Slack, and Slido at once; painful).
-- Track top volunteers for the organizer pipeline.
+- More than one person must know how to run check-in.
+- Pick one chat tool for day-of coordination; juggling several at once is painful.

@@ -18,10 +18,10 @@ See `venue.md` for contract mechanics and `next-year-planning.md` for the workst
 
 See `av.md` for the deep dive.
 
-- [ ] Month -7: start vendor outreach (Garner Media in the 2026 cycle)
+- [ ] Month -7: start vendor outreach (current vendor: Garner Media)
 - [ ] Month -6 to -5.5: request the quote; confirm scope covers recording, livestream, and captioning
 - [ ] Review the contract and sign with Conference Chair signoff
-- [ ] Pay the deposit (booked ~6 months out in 2025; deposit paid ~3 months out in 2026); coordinate the schedule with Finance (deposit at booking, installment near the event, final after)
+- [ ] Pay the deposit; coordinate the schedule with Finance (deposit at booking, installment near the event, final after)
 
 ## Month -5.5: Ticket Timeline and Registration Setup
 
@@ -33,8 +33,8 @@ See `av.md` for the deep dive.
 
 Any alcohol service needs a TABC permit and two hired licensed peace officers (a city requirement; two are budgeted).
 Both are long-lead and fragile.
-2026: hiring the peace officer took a month of bounced emails and only closed through a personal contact.
-2026: the TABC permit was submitted ~2.5 weeks out and was still in review the day before the conference.
+Peace officer hiring can take a month of bounced emails and often closes through a personal contact.
+TABC approval is slow; a permit submitted a few weeks out can still be in review the day before the conference.
 
 - [ ] Start peace officer outreach now; expect bounced contacts and dead ends
 - [ ] Identify the TABC permit requirements and application lead time
@@ -59,15 +59,15 @@ See `catering.md`.
 - [ ] Final catering orders due ~4.5 weeks out
 - [ ] Order linens from American Party Rental (the library provides none; reuse last year's invoice)
 - [ ] Confirm the peace officers are secured
-- [ ] Start collecting dietary restrictions from registration (2026 collected them the final week; the retro says earlier)
-- [ ] Order badges from ConferenceBadges.com (template, print ahead plus day-of printing). Badges slipped to the final two weeks in both 2025 and 2026; order them here and beat the pattern
+- [ ] Start collecting dietary restrictions from registration; collecting them in the final week is too late
+- [ ] Order badges from ConferenceBadges.com (template, print ahead plus day-of printing). Badge orders tend to slip to the final two weeks; order them here and beat the pattern
 
 ## Week -3.5 to -2.5: Compliance and Final Swag
 
 - [ ] Submit the TABC permit if not already in (see the warning above; this is the last responsible moment, not the target)
 - [ ] All swag ordered and approved
 - [ ] Finalize both dinner plans
-- [ ] Raise the hotel room block question with the Chair (raised repeatedly in 2026, never resolved; carried forward)
+- [ ] Raise the hotel room block question with the Chair and get a decision; this question tends to drift unresolved
 
 ## Week -2 to -1: Signage and Final Prep
 
@@ -133,11 +133,11 @@ Setup happens Friday morning in parallel with tutorials; there is no Thursday ac
 
 ## Food Quantity Calibration
 
-Count leftovers every year and adjust; the counts below come from 2024-2025 actuals.
+Count leftovers every year and adjust.
 
-- Bananas: 40-50 lb consumed across the weekend; nothing ran out
+- Bananas: expect to go through 40-50 lb across the weekend
 - Diet and zero sodas, sparkling water, and fruit are the hits
-- Muffins and kolaches were over-ordered both years
+- Muffins and kolaches tend to be over-ordered; order fewer
 - Buy light on Friday to gauge preferences, then bulk for the weekend
 - Order ice online; store runs are the fallback restock and eat organizer time
 - Coffee is the largest catering friction and budget overrun
@@ -199,22 +199,13 @@ Catering no-show:
 - Emergency Costco or grocery run
 - Communicate the delay
 
-## Lessons Learned
+## Pitfalls
 
-- 2026: TABC permit and peace officer hiring are long-lead and fragile; start months earlier and expect bounced contacts.
-- 2025, 2026: badges slipped to the final two weeks both years; order by Week -4.
-- 2026: dietary restrictions were collected the final week; collect earlier.
-- 2026: room block raised repeatedly, never resolved; do one next year.
-- 2025: poker chips for shirt distribution work but need pre-sorting or chips inside badges; keep the shirt table staffed; say loudly whether a shirt comes with the ticket.
-- 2026: do not let the print vendor alter the logo.
+- Poker chips for shirt distribution work but need pre-sorting or chips placed inside badges; keep the shirt table staffed; say loudly whether a shirt comes with the ticket.
+- Do not let the print vendor alter the logo.
 - Coffee runs over budget every year; it is the largest catering friction.
 - Food out for an hour is food gone, except the forbidden item of the year.
-- Leftover food goes to library staff; decide in advance, not day-of.
-- Photograph venue property at load-in and load-out.
-- Reserved organizer parking: ask the library, reportedly routine.
 - Hallway echo is loud enough to ring heads; sound deadening is an open problem.
-- Power strips at every tutorial table (still a complaint in 2026).
+- Power strips at every tutorial table; missing power is a recurring complaint.
 - Tech checks are Friday (before 9:00 or at lunch), not a separate setup day.
-- Two food lines; people miss the second one.
-- Day-2 badge loss is common; stock blanks and loaner lanyards.
 - The phone-numbers roster in the Org Info Sheet beats chat in emergencies.

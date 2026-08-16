@@ -2,7 +2,6 @@
 
 Structure for the annual PyTexas conference kickoff meeting.
 The kickoff happens at Month -8, mid-August, virtual, in the evening.
-This has been settled practice for three cycles (August 2024, 2025, and 2026).
 
 ## Pre-Meeting Preparation
 
@@ -70,10 +69,10 @@ If a lead position stays open, recruiting a replacement becomes a chair action i
 ### 5. How We Work and Next Steps (10 Minutes)
 
 * Tools: task tracking (Asana), the Drive folder, shared password vault
-* Chat platform decision (the 2027 cycle moved organizing to Discord)
+* Chat platform confirmation (organizing runs on Discord)
 * Meeting cadence: roughly monthly to start, tightening to biweekly then weekly as the conference approaches
 * Documentation commitment: runbooks are updated as we go
-* Action items with owners: speaker lead drives the CFP launch (due October 1), speaker lead opens the keynote nomination form (due: today; the form has launched at the kickoff meeting itself in 2025 and 2026), finance lead readies the sponsor prospectus for early-October publication
+* Action items with owners: speaker lead drives the CFP launch (due October 1), speaker lead opens the keynote nomination form (due: today; launch the form at the kickoff meeting itself), finance lead readies the sponsor prospectus for early-October publication
 
 ## Post-Meeting Actions
 

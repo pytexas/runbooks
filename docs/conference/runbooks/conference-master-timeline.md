@@ -45,42 +45,41 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %b
     section Chair
-    Kickoff meeting              :milestone, 2025-08-18, 0d
-    Planning meetings            :2025-08-18, 2026-04-13
-    Next-year dates and deposit  :2026-01-26, 2026-02-09
-    Final run of show build      :2026-04-03, 2026-04-16
-    Conference weekend           :crit, 2026-04-17, 2026-04-19
-    Retro meeting                :milestone, 2026-04-27, 0d
+    Kickoff meeting              :milestone, 2001-08-15, 0d
+    Planning meetings            :2001-08-15, 2002-04-13
+    Next-year dates and deposit  :2002-01-26, 2002-02-09
+    Final run of show build      :2002-04-01, 2002-04-14
+    Conference weekend           :crit, 2002-04-15, 2002-04-17
+    Retro meeting                :milestone, 2002-04-25, 0d
     section Speaker
-    Keynote nominations and election :2025-08-18, 2025-10-10
-    CFP open                     :2025-10-01, 2025-12-10
-    Talk review and selection    :2025-12-10, 2026-01-01
-    Speaker notifications        :milestone, 2026-01-01, 0d
-    Schedule and speaker comms   :2026-01-12, 2026-04-06
+    Keynote nominations and election :2001-08-15, 2001-10-10
+    CFP open                     :2001-10-01, 2001-12-07
+    Talk review and selection    :2001-12-07, 2002-01-01
+    Speaker notifications        :milestone, 2002-01-01, 0d
+    Schedule and speaker comms   :2002-01-12, 2002-04-08
     section Finance
-    Prospectus published         :milestone, 2025-10-01, 0d
-    Sponsor contracts and payments :2025-10-01, 2026-04-17
-    Opportunity grant window     :2025-12-20, 2026-02-15
-    Insurance purchased          :milestone, 2026-03-16, 0d
-    Weekly Pretix reports        :2026-01-12, 2026-04-13
+    Prospectus published         :milestone, 2001-10-01, 0d
+    Sponsor contracts and payments :2001-10-01, 2002-04-15
+    Opportunity grant window     :2001-12-20, 2002-02-14
+    Insurance purchased          :milestone, 2002-03-14, 0d
+    Weekly Pretix reports        :2002-01-07, 2002-04-14
     section Marketing
-    CFP campaign                 :2025-10-01, 2025-12-10
-    Early bird countdown         :2026-01-12, 2026-01-19
-    Speaker reveal               :milestone, 2026-01-15, 0d
-    Sponsor and countdown posts  :2026-03-16, 2026-04-17
-    Post-event survey            :2026-04-19, 2026-05-03
+    CFP campaign                 :2001-10-01, 2001-12-07
+    Early bird countdown         :2002-01-12, 2002-01-19
+    Speaker reveal               :milestone, 2002-01-15, 0d
+    Sponsor and countdown posts  :2002-04-01, 2002-04-15
+    Post-event survey            :2002-04-17, 2002-05-01
     section Venue
-    A/V outreach and booking     :2025-09-15, 2025-11-15
-    Early bird tickets           :2025-12-01, 2026-01-19
-    Swag ideation to final orders :2026-02-01, 2026-03-31
-    Catering and TABC compliance :2026-02-16, 2026-04-13
+    A/V outreach and booking     :2001-09-15, 2001-11-15
+    Early bird tickets           :2001-12-01, 2002-01-19
+    Swag ideation to final orders :2002-01-30, 2002-03-29
+    Catering and TABC compliance :2002-02-14, 2002-04-11
     section Community
-    Discord bot development      :2026-01-12, 2026-04-10
-    Test stream                  :milestone, 2026-04-10, 0d
+    Discord bot development      :2002-01-12, 2002-04-08
+    Test stream                  :milestone, 2002-04-08, 0d
 ```
 
-Bars show a representative cycle.
-Months assume a mid-April conference and shift with the actual date.
+The axis shows a generic August-to-May cycle; months assume a mid-April conference and shift with the actual date.
 
 ## Month -13 to -12: During and Just After the Previous Conference
 
@@ -91,14 +90,14 @@ Months assume a mid-April conference and shift with the actual date.
 
 ## Month -12 to -9: Handoff and Branding
 
-- [ ] [Marketing] Start logo work (~10 months out; the 2025 cycle had it done before kickoff). The logo blocks the website, prospectus, and swag.
+- [ ] [Marketing] Start logo work (~10 months out; aim to have it done before kickoff). The logo blocks the website, prospectus, and swag.
 - [ ] [Speaker] Recruit tutorial presenters in person, starting at PyCon US (~11 months out). Tutorials are invited directly, not part of the open CFP.
 - [ ] [Chair] Refine the retro; carry action items into the new cycle.
 
 ## Month -8: Kickoff
 
 **Kickoff is mid-August**, about 8 months out.
-This is settled practice, three cycles running.
+This is settled practice.
 
 - [ ] [Chair] Hold the kickoff meeting: virtual, 45-minute target, hard 1-hour cutoff. See `kickoff-meeting.md`.
 - [ ] [Chair] Assign committee leads via round-robin volunteer mapping; set annual goals (sell-out date, profit target, meeting discipline).
@@ -124,7 +123,7 @@ This is settled practice, three cycles running.
 
 ## Month -5.5 to -5: Late October and November
 
-- [ ] [Speaker] Decide the keynote invite order from the ranked list and work down it. The backup order matters; the 2026 keynoters were #2 and #5 on the list.
+- [ ] [Speaker] Decide the keynote invite order from the ranked list and work down it. Keep the full ranked list; invitations often go several names deep before someone accepts.
 - [ ] [Finance] Clone per-tier sponsor agreement templates from last year.
 - [ ] [Venue] Set the ticket timeline: early bird opens December 1, speaker list mid-January, early bird closes mid-to-late January. Start Pretix setup with demographic questions.
 - [ ] [Venue] Request the A/V quote and book the vendor.
@@ -171,14 +170,14 @@ This is settled practice, three cycles running.
 - [ ] [Speaker] Present the proposed schedule; get Slido and StageTimer single-event quotes.
 - [ ] [Venue] Pay the first swag order (patches, stickers, pins); pay both dinner-venue deposits.
 - [ ] [Venue] Build the catering plan sheet: per-day blocks (breakfast, coffee, snacks, all-day beverages) plus a "who's getting what" shopping tab with an owner per item.
-- [ ] [Venue] Submit the TABC permit for any alcohol service, and start the peace officer hire if not already running. 2026 filed the permit ~2.5 weeks out and it was still in review the day before; file it here instead. See `network-event.md`.
+- [ ] [Venue] Submit the TABC permit for any alcohol service, and start the peace officer hire if not already running. Permit review is slow; a filing left to the final weeks can still be in review the day before the event, so file it here. See `network-event.md`.
 - [ ] [Finance] Chase remaining sponsor contracts; hold dependent orders behind sponsor payment (the lanyard order waits for the lanyard sponsor).
 
 ## Week -5.5 to -4.5: Mid-March
 
 - [ ] [Finance] **Buy event insurance by Week -4.5** (The Event Helper). Hard deadline.
 - [ ] [Venue] **Close shirt pre-orders around Week -5** with a last-chance campaign, then **place the shirt order immediately after, around Week -4.5**.
-- [ ] [Venue] Confirm the licensed peace officer for alcohol service; hiring took a month of bounced emails in 2026, so this should already be in motion.
+- [ ] [Venue] Confirm the licensed peace officer for alcohol service; hiring can take a month of bounced emails, so this should already be in motion.
 - [ ] [Venue] Place final catering orders; order linens (American Party Rental; reuse last year's invoice).
 - [ ] [Finance/Marketing] Publish the Attendee KBYG and Sponsor KBYG; build the sponsor marketing sheet with an "Approved To Market?" gate. Unpaid sponsors never get a post.
 - [ ] [Marketing] Prep sponsor thank-you campaigns per sponsor: one before, one during.
@@ -195,14 +194,14 @@ This is settled practice, three cycles running.
 - [ ] [Speaker] Send the speaker KBYG; open the slide-upload folder; collect technical-term lists for caption prep.
 - [ ] [Community] Run a test stream at least one week ahead. See `discord.md`.
 - [ ] [Venue] Print signage (~6 standing signs, 5-10 single-page; map it on a Miro board); check whether the venue has sign holders.
-- [ ] [Venue] Order badges (ConferenceBadges.com). Badges slipped to the final two weeks in both 2025 and 2026; treat this as the latest acceptable moment, not the plan.
-- [ ] [Venue] Collect dietary restrictions. 2026 did this the final week; do it earlier.
+- [ ] [Venue] Order badges (ConferenceBadges.com). Badges tend to slip to the final two weeks; treat this as the latest acceptable moment, not the plan.
+- [ ] [Venue] Collect dietary restrictions now, not in the final week.
 - [ ] [Marketing] Run daily sponsor countdown posts; build the per-day lightning talk signup forms; prepare the feedback form and organizer-interest form.
-- [ ] [Finance] Chase final sponsor payments; this ran into conference week in both 2025 and 2026.
+- [ ] [Finance] Chase final sponsor payments; this tends to run into conference week, so start early and keep dependent orders sequenced behind payment.
 
 ## Days -4 to -1: Conference Week
 
-- [ ] [Chair] Finish the run of show grid. It was built 3-4 days out in every recorded year and every retro says earlier; target ~2 weeks out. See `run-of-show.md`.
+- [ ] [Chair] Finish the run of show grid. Left alone it gets built 3-4 days out; target ~2 weeks out instead. See `run-of-show.md`.
 - [ ] [Venue] Final catering plan updates; plan the Friday morning Costco and HEB run during the first tutorial.
 
 ## Conference Weekend
@@ -218,7 +217,7 @@ See `day-of-operations-guide.md` and `run-of-show.md`.
 - [ ] [Speaker] Distribute per-speaker feedback from Slido and the feedback form.
 - [ ] [Marketing] Export Buffer analytics; file photos.
 - [ ] [Chair] Hold the retro meeting within two weeks; the retro doc has been accumulating all year. See `post-event.md`.
-- [ ] [Finance] Pay the final A/V installment (due ~3.5 weeks after in 2025).
+- [ ] [Finance] Pay the final A/V installment (typically due a few weeks after the conference).
 
 ## Month +3 Onward: Replays
 
@@ -237,11 +236,11 @@ Long lead time or blocks other work:
 5. Run of show draft: a pitch-slot skeleton must exist before sponsorships are sold.
 6. A/V vendor: outreach Month -7, booked by Month -6 to -5, deposit by Month -3.
 7. Shirt pre-order close (~Week -5) and immediate order (~Week -4.5).
-8. Badges: a recurring late item every year; order before the final two weeks.
+8. Badges: a recurring late item; order before the final two weeks.
 
 ## Budget Ranges (% of Total)
 
-These shares are a planning heuristic carried over from earlier drafts of the runbooks, not derived from recorded actuals; treat them as starting points only.
+These shares are a planning heuristic, not derived from recorded actuals; treat them as starting points only.
 
 - A/V: 20-25%
 - Networking event: 15-18%
@@ -251,22 +250,15 @@ These shares are a planning heuristic carried over from earlier drafts of the ru
 - Opportunity grants: 3-5%
 - Reserve: 10-15%
 
-The recorded relative magnitudes differ from these shares.
-In 2026, food and beverage was the largest expense category, happy hour / network event was second, and venue rental was the largest single line.
-Where the shares and the record disagree, trust the record.
+Actuals tend to differ: food and beverage runs largest, the network event second, and venue rental is the largest single line.
+Where the shares and your own records disagree, trust the records.
 
 See `budget-planning-template.md`.
 
-## Lessons Learned
+## Pitfalls
 
-- 2023-2026: the run of show was built 3-4 days out every year, and every retro says build it earlier. Keep the pitch-slot draft from Month -7 alive and finish the grid ~2 weeks out.
-- 2025: the PSF grant freeze plus its 8-week processing lead forced a scramble. Apply earlier than feels necessary.
-- 2025, 2026: badges slipped to the final two weeks both years.
-- 2025, 2026: sponsor payment chasing ran into conference week both years. Sequence dependent orders behind payment.
-- 2025: two sponsors never redeemed their comped tickets. Track redemption through the conference.
-- 2026: TABC permit filed ~2.5 weeks out was still in review the day before, and the peace officer hire took a month of bounced emails. Start both months earlier.
-- 2026: the sell-out-a-month-early goal failed; about a third of capacity had sold five weeks out. Ticket pushes need to start earlier and harder.
-- 2026: coffee is the largest catering friction and budget overrun.
-- 2026: collect speaker name, socials, and photo at acceptance; only 6 of ~15 had responded when marketing first checked.
-- 2026: library pricing was flagged as doubling for 2027. Have the next-year contract signed by February 1.
-- 2026: ordering ice online works; repeated store runs are the fallback restock mechanism and eat organizer time.
+- Ticket sales lag without active pushes. Start pushes earlier than feels necessary and track progress against the sell-out goal from early bird onward.
+- Coffee is the largest catering friction and a common budget overrun. Plan it deliberately.
+- Sponsors sometimes never redeem their comped tickets. Track redemption through the conference.
+- Library pricing may rise; get the next-year contract signed by February 1.
+- Order ice online. Repeated store runs are the fallback restock mechanism and eat organizer time.

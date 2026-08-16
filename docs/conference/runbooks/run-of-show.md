@@ -4,7 +4,7 @@ Owned by Conference Chair (with Speaker and Venue committees).
 
 A draft pitch-slot skeleton must exist before the prospectus ships (Month -7) so pitch slots can be written into sponsor contracts.
 The final grid gets built about 2 weeks out.
-Historically it was built 3-4 days out every year (2023-2026), and every retro complains.
+Left alone it slips to 3-4 days out, and every retro complains; start earlier.
 
 See `speaker-committee-runbook.md`, `day-of-operations-guide.md`.
 
@@ -71,7 +71,8 @@ Sunday differs at the close: lightning talks ~4:45, closing remarks with door pr
 ## Door Prize Drawings
 
 Spread through the day: after the keynote, before lunch, mid-afternoon, end of day.
-Entry via Google Form; the wheel-of-names was retired after 2025.
+Entry via Google Form.
+Scattered drawings beat a single end-of-day block.
 
 ## Distribution
 
@@ -88,6 +89,7 @@ Week before:
 - [ ] Lunch announcements and restaurant map slide
 - [ ] Door prize plan
 - [ ] Sponsor thank-you slides ordered
+- [ ] Prep last-day slides (announcements, recap) before day-of
 
 Day before:
 
@@ -105,12 +107,8 @@ End of each day:
 - [ ] Update the next day's grid based on adjustments
 - [ ] Distribute the updated version
 
-## Lessons Learned
+## Pitfalls
 
-- Every retro 2023-2026: build the grid earlier than 3-4 days out. The pitch skeleton must exist before sponsorships are sold.
-- Never let talks run early. It wrecks planned arrivals in person and online.
-- Have Python trivia or filler ready for short talks.
-- Do not cluster sponsor pitches in the morning.
-- Prep last-day slides (announcements, recap) before day-of.
-- Scattered door prizes work. Skip the single wheel-of-names block.
-- Print copies. Do not rely only on digital.
+- Never let talks run early; it wrecks planned arrivals in person and online.
+- Keep Python trivia or other filler ready for talks that run short.
+- The pitch skeleton must exist before sponsorships are sold.

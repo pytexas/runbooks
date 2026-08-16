@@ -10,15 +10,15 @@ See `swag.md`, `sponsorship.md`, and `onboarding-new-lead.md`.
 - Mailing list (Mailchimp): the workhorse channel. It drives most ticket sales. Monthly sends, weekly near the event.
 - Social platforms: X, Bluesky, LinkedIn, Mastodon (Fosstodon), Facebook. Hashtag #PyTexasConferenceYYYY.
 - Buffer for post scheduling; export analytics after the event.
-- Canva for assets. Build a reusable campaign brand template early in the cycle (2026 built it 3.5 weeks out and flagged it for reuse).
+- Canva for assets. Build a reusable campaign brand template early in the cycle; leaving it to the final weeks squeezes every later campaign.
 - Discord for community amplification, plus a one-shot post on Python Discord.
 - Mastodon requires GIFs at 720px minimum. Design assets accordingly.
 
-Channel performance from the record:
+Channel performance, in short:
 
-- 2026: social turnout was poor (Mastodon and Bluesky low, LinkedIn little); the mailing list carried ticket sales.
-- 2024: a mass email to Texas universities failed; CS-club-level personal engagement works better.
-- 2026: LinkedIn ads were evaluated and rejected after another conference reported poor results.
+- The mailing list carries ticket sales; social turnout across Mastodon, Bluesky, and LinkedIn is low by comparison.
+- Mass emails to Texas universities do not land; CS-club-level personal engagement works better.
+- Paid LinkedIn ads have been evaluated and rejected; other conferences report poor results at this scale.
 - Social promotion needs to start 3-6 months out minimum without paid ads.
 
 ## Weekly Cadence
@@ -38,7 +38,7 @@ Review campaign status at fixed offsets: 3, 2, and 1 months out; 3, 2, and 1 wee
 
 ## Month -12 to -10: Logo
 
-- [ ] Decide approach: commission a designer (current practice) or run a contest (2023 used 99designs)
+- [ ] Decide approach: commission a designer (current practice) or run a design contest
 - [ ] Brief the designer: dates, theme, anniversary context
 - [ ] Get variations: full color, B&W, dark mode, SVG, social square, web header
 - [ ] Finish before kickoff if possible; the logo blocks swag and website work
@@ -49,6 +49,7 @@ Review campaign status at fixed offsets: 3, 2, and 1 months out; 3, 2, and 1 wee
 - [ ] Write the year's marketing planning doc and campaign templates in the year's Drive folder
 - [ ] Build the reusable Canva campaign template now, not at Week -3.5
 - [ ] Prep the year's website repo so it is live before October 1; the monthly newsletter goes out on the 1st and must link it
+- [ ] Self-host the schedule rather than deep-linking into Pretalx, and give speaker headshots a stable home outside the site repo; external deep links rot and break the site
 - [ ] Get the logo SVG and dark-mode variant to the website team
 
 ## October 1: CFP Announcement Campaign
@@ -70,13 +71,13 @@ Through the CFP window:
 ## December 1: Early Bird Launch
 
 - [ ] Early bird tickets open December 1 on Pretix; announcement email plus social posts
-- [ ] Regular pushes through the window; the sell-out-a-month-early goal was missed in 2026, so pacing matters
+- [ ] Regular pushes through the window; pace them toward selling out a month early
 
 ## January: Speaker Reveal and Early Bird Close
 
 - [ ] Speaker reveal begins January 15 with the "Guess Who" campaign: two posts per speaker, an anonymized teaser built from bio bullets, then a reveal naming the talk, each across five platforms
 - [ ] Track per-speaker copy and published-post links in a sheet; it doubles as the campaign to-do list
-- [ ] Collect speaker name, socials, and photo at acceptance time; only 6 of ~15 had responded when 2026 marketing first chased them later
+- [ ] Collect speaker name, socials, and photo at acceptance time; chasing speakers later stalls the reveal campaign
 - [ ] Early bird countdown campaign the week before it closes (~Jan 19)
 - [ ] Friends of PyTexas coupon codes issued via Pretix
 - [ ] Grant deadline pushes until applications close (~Week -8.5)
@@ -86,7 +87,7 @@ Through the CFP window:
 - [ ] Shirt pre-orders close ~Week -5: run a last-chance campaign the week before; Venue places the order immediately after (see `swag.md`)
 - [ ] Prep sponsor thank-you campaigns per sponsor: one before, one during (the contract obliges one shoutout)
 - [ ] Publish the Attendee Know Before You Go (~5 weeks out, with Finance)
-- [ ] Send recap-deck data to the A/V vendor early; 2026 first flagged this about 7.5 weeks out and it was still open a month later
+- [ ] Send recap-deck data to the A/V vendor early; this item lingers for weeks when left open
 
 ## Weeks -3.5 to -1
 
@@ -98,7 +99,7 @@ Through the CFP window:
 ## Conference Days
 
 - [ ] Live posts: opening, speaker highlights, sponsor shoutouts, community moments
-- [ ] Speaker links get posted in Discord as talks start (a hit in 2025); one designated operator runs this with at least one trained backup, and Community owns it (see `community-committee-runbook.md`)
+- [ ] Speaker links get posted in Discord as talks start; one designated operator runs this for the whole conference with at least one trained backup (rotating the duty is impractical given on-site jobs), and Community owns it (see `community-committee-runbook.md`)
 - [ ] End-of-day wrap post each day from a reusable template
 - [ ] Photos with permission; back up regularly
 
@@ -117,7 +118,7 @@ The recordings pipeline:
 2. Flip each video public AND flip the playlist public; both steps are needed and one is easy to miss.
 3. Recordings land on pyvideo.org via a manual pull request to the pyvideo/data repo; a single volunteer does this and it is not automated.
 
-Replay drip campaign (2026 pattern):
+Replay drip campaign:
 
 - One recorded talk promoted per week, every Wednesday, starting ~Month +3 and running ~16 weeks.
 - Five platforms per post, with a GIF per talk (720px minimum for Mastodon).
@@ -138,14 +139,3 @@ Unpaid or unconfirmed sponsors never get a post.
 - Speaker: speaker data at acceptance (name, socials, photo), schedule for the reveal campaign
 - Venue: swag ordering and the shirt pre-order deadline (Marketing runs the campaigns)
 - Community: meetup amplification, Discord posting, survey distribution
-
-## Lessons Learned
-
-- 2026: the mailing list is the workhorse; social turnout was poor across Mastodon, Bluesky, and LinkedIn.
-- 2026: build the Canva campaign template early; it was built 3.5 weeks out and flagged for reuse.
-- 2026: Mastodon rejects GIFs under 720px.
-- 2026: collect speaker name, socials, and photo at acceptance; chasing later stalls the reveal campaign.
-- 2026: the website's Speak section went stale after CFP close; schedule a freshness pass.
-- 2025: posting speaker links in Discord live as talks progressed was well received. 2026 tried rotating the duty and abandoned it (rotation was impractical given on-site duties); one operator for the whole conference, with a trained backup.
-- 2024: the mass university email failed; go for CS-club engagement instead.
-- 2024: the site broke from links into Pretalx rotting; self-host the schedule and give headshots a stable home outside the site repo (DigitalOcean Spaces was proposed).

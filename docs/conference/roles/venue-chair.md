@@ -1,7 +1,6 @@
 # Venue Chair
 
 The Venue Chair leads the Venue Committee: the venue relationship, A/V, catering, evening events, alcohol compliance, swag, badges, signage, the registration desk, and volunteers.
-This role absorbed the retired Volunteer & Venue Chair.
 
 ## Responsibilities
 
@@ -12,14 +11,14 @@ This role absorbed the retired Volunteer & Venue Chair.
 * Set the ticket timeline and stand up Pretix with demographic questions: early bird opens December 1 and closes mid-January. See `../runbooks/registration.md`.
 * Run catering: ideation docs with headcount assumptions about 11 weeks out, quotes 8-10 weeks out, deposits (roughly half of totals) about 6.5 weeks out, final orders about 4.5 weeks out. Build the catering plan sheet with per-day blocks and a "who's getting what" shopping tab with an owner per item. See `../runbooks/catering.md`.
 * Plan the evening events: the Friday invite-only appreciation dinner (speakers, sponsors, organizers, Friends of PyTexas, about 50-75) and the Saturday network event (about 150). See `../runbooks/network-event.md`.
-* Own alcohol compliance: TABC permit plus a hired licensed peace officer (two budgeted). Start months early; the 2026 officer hire took a month of bounced emails, and the permit submitted about 2.5 weeks out was still in review the day before the event.
+* Own alcohol compliance: TABC permit plus a hired licensed peace officer (two budgeted). Start months early; the officer hire can take a month of bounced emails, and TABC approval is slow enough that a permit submitted a few weeks out may still be in review the day before the event.
 * Run swag ordering: quotes about 8 weeks out, first order (patches, stickers, pins) about 6.5 weeks out, shirts ordered immediately after pre-orders close about 5 weeks out, everything ordered and approved by 2.5 weeks out. Do not let the print vendor alter the logo. See `../runbooks/swag.md`.
-* Order badges through ConferenceBadges.com earlier than feels necessary; the order slipped to the final two weeks in both 2025 and 2026.
+* Order badges through ConferenceBadges.com earlier than feels necessary; the order tends to slip into the final two weeks.
 * Order linens from American Party Rental (reuse last year's invoice); the library provides furniture but no linens.
 * Print signage the final week: about 6 standing signs and 5-10 single-page signs, mapped on the Miro board with Community. Check whether the library has sign holders.
-* Collect dietary restrictions well before the final week; 2026 did it in the last days and the retro says earlier.
+* Collect dietary restrictions well before the final week; gathering them in the last days leaves no time to adjust orders.
 * Recruit volunteers and build the day-of staffing plan, including registration desk shifts and shirt-table coverage. See `../runbooks/volunteers.md`.
-* Pursue a hotel room block; raised repeatedly in 2026, never resolved, and carried as a do-it item for 2027.
+* Pursue a hotel room block early and give it an owner; it gets raised repeatedly and stalls without one.
 
 ### Day of Event
 

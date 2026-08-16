@@ -19,7 +19,7 @@ Owned by Community Committee; the Conference Chair is the escalation point.
 
 Attendees can report through any of these:
 
-- Any organizer in a yellow staff shirt, in person
+- Any organizer in a staff shirt (the year's organizer color), in person
 - A direct message to a Discord moderator or organizer
 - The contact channel published in the CoC itself
 

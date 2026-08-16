@@ -1,7 +1,6 @@
 # Finance Chair
 
 The Finance Chair leads the Finance Committee: the budget, sponsorship end to end, registration money, grants, insurance, and taxes.
-This role absorbed the retired Sponsor Chair.
 
 ## Responsibilities
 
@@ -10,19 +9,19 @@ This role absorbed the retired Sponsor Chair.
 * Steward the budget sheet: a single guarded spreadsheet owned by the finance lead ("look, don't edit"), with target vs actual per line. Create next year's sheet during the current conference weekend.
 * Run sponsorship end to end: finalize the prospectus for publication by early October to hit corporate budget season, email it to the sponsor mailing list, clone per-tier contract templates, invoice (net 30, benefits secured only on full payment), and chase payment. See `../runbooks/sponsorship.md`.
 * Sequence dependent orders behind sponsor payment; the lanyard order waits for the lanyard sponsor.
-* Know prospects' fiscal-year ends; a 2024 Gold sponsorship closed only because its budget expired January 31.
+* Know prospects' fiscal-year ends; deals close when a prospect's budget is about to expire, so time the ask to their calendar.
 * File the weekly Pretix accounting report every Monday from about 14 weeks out through conference week.
 * Open the opportunity grant application about 4 months out, close it around Week -8.5, and review applications in a dedicated special meeting the next day. Comp local ticket-only requests instead of spending grant funds, prioritize accepted speakers, and publish a per-person guidance range. See `../runbooks/grants.md`.
 * Apply for the PSF grant about 3 months out; it requires a published schedule, CoC and policy links, and a budget, and carries an 8-week processing lead. External freezes happen without warning, so earlier is safer.
-* Buy event insurance through The Event Helper by Week -4.5. This is a hard deadline; it was met in 2026 only because it headlined the deadlines block.
+* Buy event insurance through The Event Helper by Week -4.5. This is a hard deadline; keep it headlining the Upcoming Deadlines block so it cannot slip.
 * Remind vendors that 501(c)(3) status removes sales tax on orders.
 * Manage both bank accounts (Grasshopper Bank plus the credit union account) and report balances at planning meetings.
 * Publish the Sponsor KBYG about 5 weeks out and maintain the sponsor marketing sheet with its "Approved To Market?" gate; unpaid sponsors never get a post.
 
 ### Day of Event
 
-* Chase final sponsor payments; this has run into conference week every recorded year.
-* Confirm sponsors receive their contracted benefits (booth table, pitch slot, shoutouts) and that comped sponsor tickets are actually redeemed (two went unused in 2025).
+* Chase final sponsor payments; this reliably runs into conference week.
+* Confirm sponsors receive their contracted benefits (booth table, pitch slot, shoutouts) and that comped sponsor tickets are actually redeemed; unredeemed comps go unnoticed without a check.
 * Handle day-of paid swag through Pretix voucher QR codes, not cash.
 
 ### Post Event

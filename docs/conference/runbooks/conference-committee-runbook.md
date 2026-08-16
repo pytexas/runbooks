@@ -17,19 +17,19 @@ See `conference-master-timeline.md`, `kickoff-meeting.md`, `next-year-planning.m
 - [ ] One running minutes doc for the whole cycle, newest meeting on top, reusable template at the bottom
 
 Cadence ramps with the calendar: roughly monthly after kickoff, biweekly from January, weekly from about 9 weeks out.
+Fixed report order, per-section timers, and special sessions keep a small organizing team on one page inside an hour.
 
 ### Upcoming Deadlines Block
 
 Keep a standing Upcoming Deadlines section in every agenda listing hard payment and order dates: insurance, catering deposits, shirt order close, TABC permit, badges, sponsor payments.
 
 Rolling-template minutes lose action items without it.
-In 2025 door prizes stayed "next week's problem" for weeks.
-The 2026 insurance deadline was met only because it headlined this block.
+Small items stay "next week's problem" for weeks, and hard deadlines like insurance hold only when they headline this block.
 
 ### Special Sessions
 
 Split large decision work out of the regular meeting into dedicated special sessions so the regular meeting keeps its timers.
-2026 ran special sessions for opportunity grant review (the day after applications closed) and for catering deposits and headcounts.
+Typical special sessions: opportunity grant review (the day after applications close) and catering deposits and headcounts.
 
 ### Next-Year Planning
 
@@ -53,7 +53,7 @@ See `next-year-planning.md`.
 
 ## Month -8 (Mid-August): Kickoff
 
-The kickoff is virtual, at Month -8, three cycles running (August 2024, 2025, and 2026).
+The kickoff is virtual, at Month -8 (mid-August).
 See `kickoff-meeting.md` for the full template.
 
 - [ ] Stand up the year's Important Documents: minutes doc, Drive folder, budget sheet, retro doc
@@ -181,13 +181,10 @@ See `run-of-show.md`.
 - Any issue: the relevant committee lead first, then the Conference Chair as the escalation point
 - Medical: 911, then notify the Conference Chair
 
-## Lessons Learned
+## Pitfalls
 
-- Every year 2023-2026: the run of show was built 3-4 days out and every retro says build it earlier. A draft must exist before sponsorships are sold so pitch slots can be written into contracts.
-- 2026: meeting discipline works. Fixed report order, per-section timers, and special sessions kept a small organizing team on one page inside an hour.
-- 2026: the sell-out-one-month-early goal was missed (about a third of capacity sold five weeks out). Ticket pushes need to start earlier and hit harder.
-- 2025-2026: a standing Upcoming Deadlines block is what keeps hard payment dates from slipping.
-- 2025: retro ask for a phone-numbers roster; implemented in the 2026 Org Info Sheet.
-- Single point of failure on the conference chair is real. Delegate harder.
+- The run of show grid slips to 3-4 days out unless it is scheduled; build it 2 weeks out, with a pitch-slot draft in hand before sponsorships are sold.
+- Ticket sales lag the sell-out goal unless marketing pushes start early and hit hard; track pacing from the first sale.
+- The conference chair is a single point of failure. Delegate harder than feels comfortable.
 - Volunteers need defined roles, not "whoever's free."
-- Document during the cycle, not after. "We will write runbooks as we go along this year" was a stated 2026 goal; hold to it.
+- Document during the cycle, not after. Runbooks written after the conference lose the detail.

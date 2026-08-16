@@ -37,7 +37,7 @@ Badge and shirt prep:
 
 Tutorial room:
 
-- [ ] Power strips at every table (a repeat complaint in 2025 and 2026)
+- [ ] Power strips at every table (a perennial complaint when missed)
 - [ ] Test outlets, mics, projector, timer
 - [ ] Water out for instructors
 
@@ -69,8 +69,8 @@ Signage:
 
 ### Friday Evening: Appreciation Dinner
 
-Invite-only dinner for speakers, sponsors, organizers, and Friends of PyTexas.
-This replaced the separate speaker dinner; 2026 held it on the library rooftop, catered by Terry Black's.
+Invite-only dinner for speakers, sponsors, organizers, and Friends of PyTexas; there is no separate speaker dinner.
+Held at a nearby rented space with catering brought in (e.g. a rooftop terrace).
 
 - [ ] Brief speakers in person here (they do not read emails): green room location, on-deck flow, tech-check windows
 - [ ] Confirm RSVPs against the headcount given to the caterer
@@ -162,6 +162,7 @@ Sponsors:
 
 ### Lunch (12:30-2:00)
 
+- [ ] Lunch destinations decided and signed before the conference, with a captain per restaurant
 - [ ] Restaurant map on a slide before dismissal
 - [ ] Captains lead groups; avoid slow venues; check Sunday opening hours
 - [ ] Announce the 2:00 resume time
@@ -184,8 +185,8 @@ Sponsors:
 
 ## Staff Identification
 
-- Yellow PyTexas staff shirts for organizers
-- Tie-dye shirts for the program/speaker team
+- Organizer shirts in a distinct color from attendee shirts, chosen each year
+- A second distinct style marks the program/speaker team
 - Phone roster lives in the Org Info Sheet; print copies for organizers
 
 ## Networking Event (Saturday Evening)
@@ -211,7 +212,7 @@ A/V:
 
 - Projector won't display: try Dell/Apple/HP dongles; USB-C preferred; fall back to the speaker's screen
 - Mic down: hot swap, batteries, A/V vendor
-- Stream drops: library bandwidth dips have happened; hotspot failover was judged impractical in 2025, so ride it out and note timestamps for the vendor
+- Stream drops: library bandwidth dips happen; hotspot failover is impractical, so ride it out and note timestamps for the vendor
 - Timer dies: phone running stagetimer.io
 
 Catering:
@@ -254,18 +255,10 @@ The phone roster lives in the Org Info Sheet. Before the conference, confirm it 
 - [ ] Local hospital
 - [ ] Non-emergency police
 
-## Lessons Learned
+## Pitfalls
 
-- 2025: "Don't panic at the conference chair until at least day two."
-- Lanyards on stands, separate from badges. Tangled lanyards bottleneck registration.
-- 2 people on check-in laptops, 1-2 on badges. Pre-bundle shirts with badges on Friday.
-- Power strips at every tutorial table (complaint in both 2025 and 2026).
-- People miss the second food line. Sign or volunteer to direct.
-- Lunch destinations must be decided and signed before the conference. Captains per restaurant.
-- Speakers do not read emails. Brief them in person at the Friday dinner.
-- A/V monitoring needs shifts, not one person all weekend.
-- Order ice online; it worked well in 2025.
-- Scattered door prizes with Google Form entry work. The wheel-of-names was retired after 2025.
-- People forget badges on day 2. Stock bright loaner lanyards.
+- Don't panic at the conference chair until at least day two.
+- Tangled lanyards bottleneck registration; keep them on stands, separate from badges.
+- People miss the second food line; use a sign or a volunteer to direct.
+- People forget badges on day 2; stock bright loaner lanyards.
 - A printed phone roster beats chat tools in emergencies.
-- 40-50 lb of bananas go across the weekend (2024 and 2025 counts).

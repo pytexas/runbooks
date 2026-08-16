@@ -74,7 +74,7 @@ Day-of paid swag goes through Pretix voucher QR codes, not cash. See `swag.md`.
 
 ## Tutorial-Specific
 
-- [ ] Power strips at every table (a repeat complaint in 2025 and 2026)
+- [ ] Power strips at every table (a perennial complaint when missed)
 - [ ] Extra extension cords
 - [ ] Pre-tested setup instructions for attendees
 
@@ -83,16 +83,16 @@ Day-of paid swag goes through Pretix voucher QR codes, not cash. See `swag.md`.
 Runs happen Friday morning during the first tutorial, with restock runs as needed through the weekend.
 Use prior years' receipts and leftover counts to size quantities; the catering plan sheet carries the actuals.
 
-Calibration from 2024-2025 leftover counts:
+Calibration from leftover counts:
 
 - Diet and zero sodas, sparkling water, and fruit are the hits; buy heavy on those
-- Regular Dr Pepper was the big leftover; buy light
-- Bananas: 40-50 lb goes across the weekend, with only 1-2 apple bags left over
-- Muffins and kolaches were over-ordered both years; buy fewer
-- Water mostly consumed; day 2 uses less water and soda than day 1
+- Regular sodas linger; buy light
+- Bananas: expect to go through 40-50 lb over the weekend, with only 1-2 apple bags left over
+- Muffins and kolaches tend to get over-ordered; buy fewer
+- Water gets mostly consumed; day 2 uses less water and soda than day 1
 - Buy light Friday to gauge the year's preferences, then bulk-buy for the weekend
 
-Ice: order online. It worked well in 2025; repeated store runs are the fallback restock mechanism and eat organizer time.
+Ice: order online. Repeated store runs are the fallback restock mechanism and eat organizer time.
 
 ## Buying Strategy
 
@@ -107,14 +107,8 @@ Ice: order online. It worked well in 2025; repeated store runs are the fallback 
 - Signage frames (refresh paper inserts)
 - Coolers, totes, chafing dishes
 
-## Lessons Learned
+## Pitfalls
 
-- 2024-2025: 40-50 lb of bananas is the right order; count leftovers each year to recalibrate.
-- Order ice online.
-- Pre-print allergen signs.
-- Move ice with 5-gallon buckets, not the scoop.
-- Coffee cups and lids run out fast.
-- Bring a kettle for tea and hot water.
-- Backup dongles for every common laptop; USB-C preferred.
-- 2024: badges ran short with 65 people left to check in. Order with a buffer.
-- Black totes were great for hauling.
+- Count leftovers each year to recalibrate quantities; the catering plan sheet carries the actuals.
+- Badges run short without a buffer; order ~10% over registrations.
+- Move ice with the 5-gallon buckets, not the scoop.

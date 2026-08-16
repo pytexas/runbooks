@@ -14,12 +14,12 @@ See `finance-committee-runbook.md` for the full finance lifecycle and `run-of-sh
 - [ ] October through conference: run outreach, contracts, invoicing, and payment chasing continuously. Review per-sponsor status at every planning meeting.
 - [ ] Week -5: publish the Sponsor KBYG and build the sponsor marketing sheet with the Approved To Market gate.
 - [ ] Weeks -2 to 0: sponsor countdown posts run daily (Marketing executes; Finance supplies the approved list).
-- [ ] Conference week: chase final payments. This has run into conference week every year; plan for it.
+- [ ] Conference week: chase final payments. This reliably runs into conference week; plan for it.
 - [ ] Post-conference: thank-yous, comp-ticket redemption check, renewal outreach.
 
 ## Tier Structure
 
-The 2026 prospectus sold four standard tiers and four specialty tiers.
+The prospectus sells four standard tiers and four specialty tiers.
 Quantities are caps, not targets.
 
 | Tier | Available | Distinguishing benefits |
@@ -42,7 +42,9 @@ The Platinum sponsored talk is subject to the normal review process.
 Sales pitches are rejected, and the prospectus says so explicitly; accepting them risks the Foundation's 501(c)(3) status.
 
 Booth assignment is first come, first served within tier placement rules.
-An hourly demo space was priced and offered in the 2026 cycle and then dropped; the demo area never sells out, and the 2027 venue booking excludes it.
+Watch table space in the sponsor hall as the count grows.
+A specialty tier can be invented mid-cycle when a specific cost needs covering; a benefit like captioning can be split across two sponsors.
+Do not offer a paid hourly demo space; it does not sell.
 
 ## Prospectus
 
@@ -60,12 +62,12 @@ Past sponsors renew at the highest rate; start there.
 - [ ] Email past sponsors through the year's Google Group with a short personalized note and the prospectus.
 - [ ] Create next year's Google Group of sponsor contacts as contacts appear.
 - [ ] Publish an employee template letter in the newsletter so community members can pitch their own employers.
-- [ ] Know each prospect's fiscal-year end and time the ask to it. 2024: a Gold closed only because its budget expired January 31.
-- [ ] Post the prospectus on LinkedIn and the Foundation's accounts (historically low conversion; still worth the presence).
+- [ ] Know each prospect's fiscal-year end and time the ask to it; deals close when a budget is about to expire.
+- [ ] Post the prospectus on LinkedIn and the Foundation's accounts (low conversion; still worth the presence).
 
-Companies that have sponsored recently, as target-list context: Microsoft, Temporal, and Anaconda at Platinum; Elastic at Gold; Cloudflare at Silver; Bloomberg (lanyard, plus coffee in 2025); GitButler (network event); uStudio and Caktus Group (captioning, 2025); Black Python Devs at the community level; devIT and Pretix as media and tech sponsors.
+Companies that have sponsored, as target-list context: Microsoft, Temporal, Anaconda, Elastic, Cloudflare, Bloomberg, GitButler, uStudio, Caktus Group, Black Python Devs, devIT, and Pretix.
 The PSF grant is treated as sponsorship revenue in the budget; see `grants.md`.
-Expect long pursuits that go nowhere: one large prospect was worked for months in the 2026 cycle and declined.
+Expect long pursuits that go nowhere; a prospect can be worked for months and still decline.
 
 ## Contracts
 
@@ -88,11 +90,11 @@ Contract terms that matter in practice:
 - [ ] Payment options: Stripe credit card, EFT, or purchase order.
 - [ ] Track per-sponsor status at every meeting: contract state, invoice sent, paid.
 - [ ] Follow up on unpaid invoices every meeting until closed.
-- [ ] Sequence dependent orders behind payment. 2026: the lanyard order was deliberately held until the lanyard sponsor paid.
-- [ ] Track that sponsors actually redeem their comped tickets. 2025: two never did.
+- [ ] Sequence dependent orders behind payment; for example, hold the lanyard order until the lanyard sponsor pays.
+- [ ] Track that sponsors actually redeem their comped tickets; some never do, and unredeemed comps cause confusion.
 - [ ] Remind sponsors to redeem ticket vouchers early if they want Network Event space.
 
-Payment chasing has run into conference week every year.
+Payment chasing runs into conference week.
 Budget standing time for it and never let a benefit ship ahead of the money.
 
 ## Approved to Market Gate
@@ -131,15 +133,3 @@ Contents that must be in it:
 - [ ] Confirm every contracted benefit was delivered; note misses.
 - [ ] Feed registration intake demographics to next year's prospectus.
 - [ ] Renewal touch 1-2 months later with next year's dates.
-
-## Lessons Learned
-
-- 2026: publish the prospectus by early October; "no later than end of next month because it's budget season" is the standing rule.
-- 2025, 2026: payment chasing runs to conference week. Sequence dependent orders behind payment.
-- 2025: track comp-ticket redemption; two sponsors never used theirs.
-- 2025: build the run of show before selling sponsorships so pitch slots can be spaced and written into contracts. Sold, scheduled pitch spots were adopted into the 2026 tier design.
-- 2025: a specialty tier can be invented mid-cycle when a cost needs covering; captioning was split across two sponsors this way.
-- 2025 retro: consider dropping Bronze; watch table space if the sponsor count grows.
-- 2026: the per-year sponsor Google Group works; keep it current all year.
-- 2026: the demo space never sells out; stop offering it.
-- 2024: know prospects' fiscal-year ends; one Gold closed only because its budget was about to expire.

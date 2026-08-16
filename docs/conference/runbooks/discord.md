@@ -2,8 +2,7 @@
 
 Owned by Community Committee.
 
-PyTexas moved community chat from Slack to Discord in August 2022 (free-tier Slack history limits kept eating the archive).
-Organizer coordination also moves to Discord for the 2027 cycle, with a webhook feeding ticket purchases into a channel.
+Community chat and organizer coordination run on Discord, with a webhook feeding ticket purchases into a channel.
 
 See `community-committee-runbook.md`.
 
@@ -46,11 +45,11 @@ Manual role assignment is the fix; capture both emails at purchase if the ticket
 ## Streaming and Hybrid
 
 ### Setup
-- [ ] Stream to YouTube (2026 practice; 2024-2025 streamed into Discord with YouTube as backup)
+- [ ] Stream to YouTube
 - [ ] Coordinate the stream with the A/V vendor
 - [ ] Test stream at least one week ahead
 - [ ] Go live 10-15 minutes before the first session each day
-- [ ] Train at least one backup who knows the full YouTube plus Discord workflow; 2026 ran one person solo and illness would have taken down the stream
+- [ ] Train at least one backup who knows the full YouTube plus Discord workflow; a solo operator is an illness away from no stream
 - [ ] Capture speaker Discord handles in the speaker intake form for direct messaging
 
 ### Captioning
@@ -66,14 +65,14 @@ See `av.md`.
 - [ ] Test stream access before the conference
 - [ ] Dedicated channel for virtual attendees
 
-Size expectations honestly: 350 was the 2025 virtual ticket cap, but only ~30-48 virtual tickets were sold or comped that year, and 2026 sold almost none.
+Size expectations honestly: virtual ticket sales are tiny regardless of the cap; expect a handful to a few dozen.
 All in-person tickets include virtual access.
 
 ## Moderation
 
 ### Coverage
 - [ ] Name the primary chat and stream operator plus at least one trained backup
-- [ ] Pick ONE chat tool for day-of organizer coordination; 2024's Discord plus Slack plus Slido juggling was painful
+- [ ] Pick ONE chat tool for day-of organizer coordination; juggling Discord plus Slack plus Slido at once is painful
 - [ ] Brief everyone on CoC handling and escalation (see `coc.md`)
 - [ ] Mod-only channel for coordination
 
@@ -82,7 +81,7 @@ All in-person tickets include virtual access.
 Documented:
 - `/register` - verify ticket, assign attendee role
 
-Wishlist (prioritized in 2026; verify what actually shipped before documenting):
+Wishlist (verify what actually shipped before documenting):
 - `/poll`, `/question`, `/schedule` first
 - `/icebreaker`, `/coffee`, `/intro` nice-to-have
 
@@ -118,7 +117,7 @@ Virtual attendee can't see channels:
 - [ ] Slido ready for the first session
 
 ### Per Talk
-- [ ] Post speaker info as the talk starts: name, LinkedIn or handles, talk title, slides link when available (2025 practice, well received)
+- [ ] Post speaker info as the talk starts: name, LinkedIn or handles, talk title, slides link when available; attendees appreciate these posts
 - [ ] Moderate Slido before display
 - [ ] Archive Slido after the talk
 - [ ] Point overflow Q&A to conference-chat; speakers answer there after their slots
@@ -146,7 +145,7 @@ Virtual attendee can't see channels:
 
 - Bot hosted on the PyTexas DigitalOcean account, with a maintainer and a second maintainer
 - Slido: single-event license per conference
-- Speaker headshot storage: a DigitalOcean Spaces bucket was proposed in 2025 after Pretalx link rot broke the 2024 site; confirm what the current year actually uses
+- Speaker headshot storage: use storage the Foundation controls (e.g. a DigitalOcean Spaces bucket); Pretalx-hosted image links rot and break the site
 
 ## Year-Round
 
@@ -163,14 +162,9 @@ Virtual attendee can't see channels:
 - Finance: registration issues, opportunity grant announcements
 - Venue: stream coordination with the A/V vendor
 
-## Lessons Learned
+## Pitfalls
 
-- The bot fails on bulk corporate email tickets (registering email vs attendee email). Manual override required.
-- 2026: one person ran streaming and chat solo; a trained backup must know the workflow.
-- 2025: speaker link posts at talk start are a hit. Standardize.
-- Slido jumps around when questions get reordered. Mark or skip answered questions.
-- Speakers answer leftover Slido questions on their own time post-talk, not under live pressure.
-- Polls in Slido take center stage and block Q&A. Choose one per session.
-- 2025: YouTube stream bandwidth dips traced to library infrastructure; hotspot failover was judged impractical. Budget slack into stream expectations.
-- Capture speaker Discord handles in the intake form.
-- Don't move platforms. Discord is working, and 2027 doubles down on it for organizing too.
+- Slido jumps around when questions get reordered; mark or skip answered questions instead of hunting.
+- Slido polls take center stage and block Q&A; run at most one per session.
+- Library bandwidth dips can degrade the stream; hotspot failover is impractical, so ride out drops and note timestamps for the A/V vendor.
+- Don't move chat platforms; Discord works, and switching costs a year of momentum.

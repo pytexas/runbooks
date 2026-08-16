@@ -12,6 +12,7 @@ Revenue block and Expenses block sit side by side on one tab.
 Each revenue line tracks: Qty Sold, Price/Unit, Actual Revenue, Qty Available, Target Revenue.
 Each expense line tracks: Budget, Qty, Price/Unit, Cost, vs Budget, Notes.
 The Notes column doubles as a payment log: record when deposits went out and when money moved between lines (redirected honoraria, grant-fund transfers).
+Speakers redirect or donate honoraria into the opportunity grant fund most years; the Notes column is where that trail lives.
 
 ## Revenue Blocks
 
@@ -41,17 +42,17 @@ The Notes column doubles as a payment log: record when deposits went out and whe
 Eight categories, each with its own subtotal:
 
 1. Venue: rental, next-year deposit placeholder, insurance, peace officers (two), parking, signage. Rental is usually the largest single line.
-2. Food and Beverage: per-day breakfasts, per-day coffee service, snacks, tip, linens and misc. Usually the largest category overall; coffee is the recurring overrun.
+2. Food and Beverage: per-day breakfasts, per-day coffee service, snacks, tip, linens and misc. Usually the largest category overall; coffee is the recurring overrun, so budget it honestly.
 3. Happy Hour / Network Event: venue or buyout fee, food service, service charge and tip, vendor fees.
 4. A/V: sound and projection (large line), captioning, wifi, misc.
 5. Swag: lanyards, shirts, speaker gifts, badges, door prizes, stickers, misc, with design sub-lines.
-6. Speakers: keynote and tutorial honoraria, appreciation dinner venue and food, travel.
+6. Speakers: keynote and tutorial honoraria, appreciation dinner venue and food, travel. The appreciation dinner food line tends to run over; budget it generously.
 7. Web: Pretix, Pretalx, Slido, StageTimer, Mailchimp, Buffer.
 8. Fees: Stripe processing, Pretix percentage, taxes.
 
 ## Percent-of-Budget Ranges
 
-These shares are a planning heuristic carried over from earlier drafts of this runbook, not derived from recorded actuals; treat them as starting points only.
+These shares are a planning heuristic, not derived from recorded actuals; treat them as starting points only.
 
 | Area | Share of budget |
 |---|---|
@@ -65,9 +66,8 @@ These shares are a planning heuristic carried over from earlier drafts of this r
 
 Speakers, web tooling, and payment fees take the small remainder.
 
-The recorded relative magnitudes differ from the table.
-In 2026, food and beverage was the largest expense category, happy hour / network event was second, and venue rental was the largest single line.
-Where the table and the record disagree, trust the record.
+In practice the relative magnitudes differ from the table: food and beverage is usually the largest expense category, happy hour / network event second, and venue rental the largest single line.
+Where the table and recorded actuals disagree, trust the actuals.
 
 ## Dashboard Metrics
 
@@ -99,7 +99,7 @@ The sell-out number is 250 in-person, stretchable to 275; model against those, n
 
 Red flags:
 
-- Ticket sales pacing behind goal; 2026 sat at a third of capacity 5 weeks out and had already lost its sell-out-early goal
+- Ticket sales pacing behind goal; a third of capacity sold at 5 weeks out means the sell-out goal is already gone
 - Sponsorship falling behind target with no pipeline to close the gap
 - Unbudgeted expense lines appearing
 
@@ -112,10 +112,3 @@ Red flags:
 - Week -4.5: insurance purchased (hard deadline)
 - Week +3.5: final A/V installment
 - Post-event: reconcile actuals per line, document variances, hand tax records to the treasurer
-
-## Lessons Learned
-
-- 2026: coffee ran over budget; it is the largest catering friction. Budget it honestly.
-- 2026: the appreciation dinner food line ran well over budget.
-- 2025-2026: honoraria get redirected or donated back into the opportunity grant fund most years; the Notes column is where that trail lives.
-- 2025: the budget stayed on track because one person owned the sheet and everyone else looked without editing.

@@ -11,9 +11,9 @@ The Chair runs the planning cycle, keeps the five committee leads unblocked, and
 * Stand up the year's Important Documents at kickoff: minutes doc, Drive folder, budget sheet, and retro doc. The retro doc exists from day one and accumulates all year.
 * Host recurring planning meetings with a 45-minute target and a hard 1-hour cutoff. Committees report in fixed order (Chair, Speaker, Finance, Marketing, Venue, Community), each lead gives a 5-minute update, and every action item gets an owner.
 * Split large topics (opportunity grant review, catering) into special sessions instead of stretching the regular meeting.
-* Keep a standing Upcoming Deadlines block in the minutes with hard payment dates; rolling-template minutes lose action items without it (2025: door prizes stayed "next week's problem" for weeks).
+* Keep a standing Upcoming Deadlines block in the minutes with hard payment dates; rolling-template minutes lose action items without it, and small tasks stay "next week's problem" for weeks.
 * Run next-year planning inside the current cycle: sign next year's venue contract right after the conference, conflict-check dates about 11 weeks out against the Austin events spreadsheet, pay the deposit about 9 weeks out, and start theme and logo work. See `../runbooks/next-year-planning.md`.
-* Own the run of show: keep a pitch-slot draft before sponsorships are sold so pitch slots can be written into contracts, and build the final grid about 2 weeks out. Every recorded year built it 3-4 days out and every retro complains. See `../runbooks/run-of-show.md`.
+* Own the run of show: keep a pitch-slot draft before sponsorships are sold so pitch slots can be written into contracts, and build the final grid about 2 weeks out. The grid tends to slip to the last few days; hold the two-week target. See `../runbooks/run-of-show.md`.
 * Act as the escalation point when a committee is blocked or a vendor goes quiet.
 * Onboard any new committee lead against the prior year's folders and the last two retros. See `../runbooks/onboarding-new-lead.md`.
 
