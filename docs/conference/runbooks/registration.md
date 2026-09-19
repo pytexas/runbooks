@@ -1,56 +1,252 @@
 # Registration Runbook
 
+Owned by the Venue Committee; Finance owns the money side and the weekly reporting.
 
-decide on registration platform (Tito, eventbrite, etc.)
+See `venue-committee-runbook.md` and `day-of-operations-guide.md`.
 
-determine ticket types
+## Platform: Pretix
 
-set up registration platform
+[pretix.eu](https://pretix.eu/). Open source, flexible tiers, good export.
 
-- set type of tickets
-- set number of tickets for each type
+Payments run through Stripe only.
+Sponsors additionally pay by EFT or purchase order; attendees do not.
 
-open early bird registration
+## Timeline
 
-close early bird registration & open regular registration
+- Month -5.5 to -5 (November): Pretix setup, including demographic questions
+- December 1: early bird opens
+- Week of January 7: speaker list published, drives early bird signups
+- Mid-January: early bird closes, regular opens
+- Through the conference: regular registration stays open, including day-of walk-ups
+- Only a sellout closes registration; some years sell out weeks early and some never do
 
-order/print badges for pre-registrations
+## Ticket Types
 
-get lanyards from:
-- lanyard sponsor
-- OR from conferencebadge.com (or wherever the badges come from)
-- OR from office supply store or whatever
+### Early Bird
+- Period: Dec 1 to mid-January
+- See the budget sheet for pricing
+- Cap each early bird class (individual and corporate) to create urgency
 
+### Regular
+- Period: from early bird close through the conference, including day-of
+- See the budget sheet for pricing
+- Capacity minus early bird sales
 
-Have signs on the reg table to explain process to people in line, e.g.
+### Student
+- Discounted class, .edu email or student ID upload
+- Money should never be a reason someone doesn't attend
+- Available throughout registration
 
-- step 1, do online intake form
-- step 2, check in and get badge
-- step 3, get lanyard
-- step 4, get swag/tshirt/whatever
+### Virtual
+- Streaming access
+- Demand is small: expect a few dozen sold or comped at most, far below any cap
+- Meetup organizers get free virtual tickets
+- All in-person tickets include virtual access
 
+### Corporate
+- Corporate ticket classes plus bulk packages (10+ at a corporate discount)
+- No sponsor benefits attached; logos and thank-you slides belong to sponsor tiers
+- Works as a foot in the door for companies without sponsorship budgets; track buyers for next year's sponsor outreach
 
-Set up registration desk:
+### Opportunity Grants
 
-- set up signs on reg table
-- arrange badges (in racks?)
-- what about lanyards?  put them on first?  or not?
-- arrange t-shirts (see t-shirt plan), probably behind reg desk?
-- set up extension cord/powerstrip
-- set up check-in station (laptop or ipad or whatever)
-- set up printing station for onsite badge printing (printer + laptop)
-- have pen + paper to take notes as a backup because there's alway something...
-- set up method of communicating with the printing station and tracking badges
-  that need to be printed (Google sheet?)
+Handled by Finance. See `grants.md`. Grant recipients get comped tickets through Pretix.
 
+## Pretix Setup
 
-Run reg table:
+- [ ] Ticket types + pricing
+- [ ] Quantities + limits
+- [ ] Early bird end date (mid-January)
+- [ ] Required fields:
+  - Name, email
+  - Company/affiliation (optional)
+  - T-shirt size (required for shirt buyers)
+  - Dietary restrictions
+  - Accessibility needs
+  - Pronouns (optional)
+  - How heard about PyTexas
+- [ ] Demographic questions: source the field list from the Registration Intake form in the year's Drive folder rather than inventing a new set
+- [ ] Email confirmation templates
+- [ ] End-to-end test
+- [ ] Stripe payment processing
+- [ ] Admin access for committee
 
-- only one person should check people in (at least if we use Tito)
-- separate person manage handing out t-shirts
-- someone needed to man the printing station
+Demographic data informs future planning and feeds the next prospectus.
+The day-of Registration Intake form is the demographics instrument today; the standing goal is folding it into Pretix so attendees answer once at purchase.
 
+Coordinate launch announcements with Marketing. Coordinate pricing + refund policy with Finance.
 
-During conference, after reg table slows down, can let some ppl go from reg desk
+## Launch (December 1)
 
-Should keep it constantly manned, though, for late-comers and as info desk.
+- [ ] Open early bird in Pretix
+- [ ] Test purchase flow
+- [ ] Social media (with Marketing)
+- [ ] Newsletter
+- [ ] Discord + community channels
+- [ ] Monitor for issues
+
+Push sales earlier and harder than feels necessary; sell-out-early goals slip when the push starts late.
+
+## Week of January 7
+
+Publishing speakers drives early bird sales.
+
+- [ ] Marketing launches speaker announcements (reveal mid-January, typically with a teaser series)
+- [ ] Highlight the early bird deadline
+- [ ] "Last week of early bird" countdown
+- [ ] Share speaker bios + abstracts
+
+## Mid-January: Early Bird to Regular
+
+- [ ] Close early bird in Pretix
+- [ ] Open regular pricing
+- [ ] Update site
+- [ ] Social announcement
+- [ ] Thank early bird purchasers publicly
+
+## Through Conference
+
+- [ ] Weekly sales monitoring; Finance files the weekly Pretix accounting report every Monday
+- [ ] Export attendee data 2 weeks out for badge printing
+- [ ] Pre-conference emails (Community)
+- [ ] Capacity planning with Venue; the sell-out number is 250 in-person, stretchable to 275
+- [ ] Keep registration open; only a sellout closes it
+
+## Data Exports
+
+Schedule:
+- 2 weeks before: initial for badge printing
+- 1 week before: update for late adds
+- Day before: final for on-site materials
+- Day-of: real-time via Pretix admin
+
+Fields needed:
+- Name (badge)
+- Email (comms)
+- Shirt size (swag)
+- Dietary (catering)
+- Accessibility (venue)
+- Ticket type
+
+Share with:
+- Finance: revenue, corporate buyers, grant recipients
+- Venue: headcount, dietary summary, accessibility
+- Swag Lead: shirt size distribution
+- Catering: dietary breakdown
+
+## Badges
+
+### Design
+- Name (large, readable)
+- Company/affiliation if provided
+- Pronouns if provided
+- Ticket type indicator (color?)
+- PyTexas logo + year
+- Sponsor logos if applicable
+
+Accessibility: large font, high contrast, clear hierarchy.
+
+Choose sturdy cardstock.
+
+### Print Timeline
+- [ ] Export Pretix list
+- [ ] Order from ConferenceBadges.com (template, print-ahead plus day-of)
+- [ ] Stock blank badges and a label printer for walk-ups and late registrants
+
+Badges tend to slip late; order them well before the final two weeks.
+Expect one more export for late sales since registration stays open.
+
+### Lanyards
+- Lanyard sponsor provides branded
+- conferencebadge.com
+- Office supply (Staples, Office Depot)
+- Reuse from prior years if good
+
+Order 10-15% extra for buffer.
+
+## Day-of Setup
+
+See `day-of-operations-guide.md` for the full Friday/Saturday/Sunday flow.
+
+Highlights:
+- 2 on check-in laptops, 1-2 on badges
+- 3-table bubble layout with room for attendee backpacks
+- Organize pre-printed badges alphabetically
+- Lanyards on a stand, separate from badges (not piles!)
+- Test the label printer before doors
+- Everything set by 8:00 exactly
+- Registration hours: Friday 9-12 and 2-5; Saturday and Sunday from 8:00
+- Communication: shared channel
+
+Keep the desk staffed constantly for late-comers and questions.
+
+## Check-in Flow
+
+Three stations, each with a printed numbered sign:
+
+1. Scan the QR code and complete the Registration Intake form; show the confirmation screen. The intake form is the demographics instrument that feeds next year's prospectus.
+2. Badge pickup on showing the Step 1 confirmation.
+3. Shirt pickup by poker chip redemption (chips are issued as shirt-entitlement tokens at purchase).
+
+A fourth sign advertises the Discord community.
+
+Walk-ups:
+1. Purchase in Pretix on the spot (registration stays open unless sold out)
+2. Complete the intake form
+3. Blank badge plus label printer
+4. Continue the normal flow
+
+Day-of paid swag runs through Pretix voucher QR codes, not cash.
+
+## Common Issues
+
+- Name not found: check spellings, search by email, check refund/cancel list
+- Badge printed wrong: reprint at station or marker fix
+- Shirt size out: offer to mail, offer alternative, document
+- Forgot confirmation: look up by name/email, verify identity, check in
+
+## Virtual Attendees
+
+Virtual demand is small, a few dozen tickets at most against a much larger cap.
+Size virtual effort accordingly.
+
+- Streaming link emailed
+- Optional virtual swag (see `swag.md`)
+- Discord access
+
+Setup:
+- Separate Pretix ticket type
+- Automated email with streaming instructions
+- Pre-conference test email (verify link works)
+
+Post-registration:
+- Export virtual emails for streaming platform
+- Consider shipping shirts
+- Discord invites
+
+## Post-Conference
+
+- [ ] Export final attendee list to Drive
+- [ ] Actual vs expected attendance
+- [ ] No-show rate
+- [ ] Post-conference survey (with Community)
+- [ ] Revenue numbers to Finance, document fees, refunds, projection vs actual
+
+## Cross-Committee
+
+- Finance: pricing, revenue, refund policy, corporate strategy, grant ticket allocation
+- Marketing: launch announcements, deadline reminders, social campaigns
+- Speaker: speaker comp tickets, speaker list timing, speaker guest tickets
+- Venue: headcount for catering, accessibility, desk location
+- Swag Lead: shirt size data, distribution
+
+## Resources
+
+- [Pretix Docs](https://docs.pretix.eu/)
+- The year's budget sheet and registration artifacts live in the year's Drive folder
+
+## Pitfalls
+
+- Shirts are a paid pre-order add-on redeemed by poker chip. Say loudly whether a shirt comes with the ticket; attendee confusion recurs.
+- Ticket messaging must state which days each ticket covers; attendees without tutorial tickets show up Friday when the site advertises a three-day range.
+- The Discord bot fails on bulk corporate purchases (registering email vs attendee email). Have a manual role override ready.

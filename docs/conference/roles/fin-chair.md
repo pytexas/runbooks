@@ -1,41 +1,64 @@
 # Finance Chair
-The Finance Chair is the primary accountant for the PyTexas Conference
-and ensures that the conference executes within its budget.
+
+The Finance Chair leads the Finance Committee: the budget, sponsorship end to end, registration money, grants, insurance, and taxes.
 
 ## Responsibilities
 
-Here are the responsibilities of a Finance Chair, divided into three phases: pre-event, day of the event, and post-event.
-
 ### Pre-Event
 
-* Create a budget for the conference
-* Create a break-even analysis and fiscal projection for the conference
-* Work with the Conference Chair and Sponsor Chair to create a sponsorship prospectus
-* Provide regular reports in every recurring meeting regarding the current financial state
-* Monitor the bank account for income via tickets and sponsors
-* Work with various other Chairs to ensure timely payment of bills, grants, honorariums, etc.
+* Steward the budget sheet: a single guarded spreadsheet owned by the finance lead ("look, don't edit"), with target vs actual per line. Create next year's sheet during the current conference weekend.
+* Run sponsorship end to end: finalize the prospectus for publication by early October to hit corporate budget season, email it to the sponsor mailing list, clone per-tier contract templates, invoice (net 30, benefits secured only on full payment), and chase payment. See `../runbooks/sponsorship.md`.
+* Sequence dependent orders behind sponsor payment; the lanyard order waits for the lanyard sponsor.
+* Know prospects' fiscal-year ends; deals close when a prospect's budget is about to expire, so time the ask to their calendar.
+* File the weekly Pretix accounting report every Monday from about 14 weeks out through conference week.
+* Open the opportunity grant application about 4 months out, close it around Week -8.5, and review applications in a dedicated special meeting the next day. Comp local ticket-only requests instead of spending grant funds, prioritize accepted speakers, and publish a per-person guidance range. See `../runbooks/grants.md`.
+* Apply for the PSF grant about 3 months out; it requires a published schedule, CoC and policy links, and a budget, and carries an 8-week processing lead. External freezes happen without warning, so earlier is safer.
+* Buy event insurance through The Event Helper by Week -4.5. This is a hard deadline; keep it headlining the Upcoming Deadlines block so it cannot slip.
+* Remind vendors that 501(c)(3) status removes sales tax on orders.
+* Manage both bank accounts (Grasshopper Bank plus the credit union account) and report balances at planning meetings.
+* Publish the Sponsor KBYG about 5 weeks out and maintain the sponsor marketing sheet with its "Approved To Market?" gate; unpaid sponsors never get a post.
 
 ### Day of Event
-* Ensure all bills have been paid and payment has been received from all
-sponsors
-* Aide other Chairs in their tasks
 
-### Post-Event
+* Chase final sponsor payments; this reliably runs into conference week.
+* Confirm sponsors receive their contracted benefits (booth table, pitch slot, shoutouts) and that comped sponsor tickets are actually redeemed; unredeemed comps go unnoticed without a check.
+* Handle day-of paid swag through Pretix voucher QR codes, not cash.
 
-* Provide a final breakdown of the conference's costs and profits, with
-a final profit number
-* Wrap up any lingering bills, sponsorships, and reimbursements
+### Post Event
+
+* Pay final vendor installments (the A/V final installment lands a few weeks after the conference).
+* Track opportunity grant fulfillment to completion (email sent, funds sent, ticket sent).
+* Produce the final accounting: revenue, expenses, and profit against the year's goal.
+* Wrap remaining reimbursements and file taxes.
 
 ## Relevant Runbooks
 
-## Past Conference Chairs
+* [Sponsorship](../runbooks/sponsorship.md)
+* [Budget Planning Template](../runbooks/budget-planning-template.md)
+* [Grants](../runbooks/grants.md)
+* [Registration](../runbooks/registration.md)
+* [Finance Committee Runbook](../runbooks/finance-committee-runbook.md)
+* [Onboarding a New Committee Lead](../runbooks/onboarding-new-lead.md)
 
-Year | Name 
----- | ---- 
-2019 | Jeremy Boyd 
+## Past Finance Chairs
+
+Year | Name
+---- | ----
+2019 | Jeremy Boyd
 2020 | Jeremy Boyd
 2021 | -
 2022 | Jeremy Boyd
-2023 | Jeremy Boyd 
-2024 | Jeremy Boyd 
+2023 | Jeremy Boyd
+2024 | Jeremy Boyd
 2025 | Laura Santamaria
+
+## Past Sponsorship Chairs
+
+Sponsorship ran as a separate chair role through the 2025 cycle before folding into Finance.
+
+Year | Name
+---- | ----
+2022 | Mason Egger
+2023 | Mason Egger
+2024 | Mason Egger
+2025 | Mason Egger
