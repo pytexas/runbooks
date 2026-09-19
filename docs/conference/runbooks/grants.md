@@ -3,7 +3,7 @@
 Owned by the Finance Committee.
 Money should never be the reason someone cannot attend.
 
-Contact: grants@pytexas.org.
+Contact: foundation@pytexas.org.
 
 ## How the Fund Is Seeded
 

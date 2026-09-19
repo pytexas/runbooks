@@ -87,7 +87,7 @@ Calibration from leftover counts:
 
 - Diet and zero sodas, sparkling water, and fruit are the hits; buy heavy on those
 - Regular sodas linger; buy light
-- Bananas: expect to go through 40-50 lb over the weekend, with only 1-2 apple bags left over
+- Bananas: budget about one per two to three attendees per day (roughly 40-50 lb at full capacity); apples run lighter, with only a bag or two left over
 - Muffins and kolaches tend to get over-ordered; buy fewer
 - Water gets mostly consumed; day 2 uses less water and soda than day 1
 - Buy light Friday to gauge the year's preferences, then bulk-buy for the weekend

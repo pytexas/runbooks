@@ -76,7 +76,7 @@ See `catering.md`.
 - [ ] Confirm venue access times (Friday-Sunday, 6:00 AM to 7:00 PM; there is no Thursday access)
 - [ ] Ask the library for reserved organizer parking (the parking attendant said reserving is routine)
 - [ ] Pre-conference walkthrough with the venue contact
-- [ ] Final head counts to caterers; write down delivery windows (7:30-8:00 AM breakfast, 2:00-2:30 PM afternoon)
+- [ ] Final head counts to caterers; write down each year's delivery windows (breakfast before doors, afternoon during the mid-afternoon break)
 - [ ] Decide the leftover-food policy in advance (standing policy: give to library staff)
 - [ ] Confirm A/V on-site hours all 3 days
 - [ ] Gather supplies and emergency kit (see `day-of-supplies.md`)
@@ -101,9 +101,9 @@ See `day-of-operations-guide.md` for the full run of day.
 Setup happens Friday morning in parallel with tutorials; there is no Thursday access.
 
 - Photograph venue property at load-in (and again at load-out) to avoid damage disputes
-- Friday: 6:00 AM access, 7:15 coffee pickup, 8:00 registration setup, food setup, linens layout; Costco + HEB supply run during the morning tutorial
-- Reg desk set by 8:00 exactly on Saturday and Sunday
-- Catering deliveries 7:30-8:00 AM; tear down food after each window (food out for an hour is food gone)
+- Friday: 6:00 AM venue access, then coffee pickup and registration, food, and linens setup before doors; Costco + HEB supply run during the morning tutorial
+- Reg desk set before doors on Saturday and Sunday
+- Catering deliveries before doors; tear down food after each window (food out for an hour is food gone)
 - Two food lines, clearly marked; people miss the second one, so sign it or post a volunteer
 - Lunch: post the restaurant map on a slide before dismissal; captains with flags lead groups
 - Each evening: pack leftovers (to library staff), secure equipment, brief the next day
@@ -135,7 +135,7 @@ Setup happens Friday morning in parallel with tutorials; there is no Thursday ac
 
 Count leftovers every year and adjust.
 
-- Bananas: expect to go through 40-50 lb across the weekend
+- Bananas: budget about one per two to three attendees per day (about 40-50 lb at full capacity)
 - Diet and zero sodas, sparkling water, and fruit are the hits
 - Muffins and kolaches tend to be over-ordered; order fewer
 - Buy light on Friday to gauge preferences, then bulk for the weekend

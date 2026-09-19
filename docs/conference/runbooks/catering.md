@@ -21,14 +21,14 @@ Food and beverage is the largest expense category in the budget, and the caterin
 
 ## Current Vendor Stack
 
-- Breakfast: Tacodeli taco delivery Saturday and Sunday at 7:30 AM, about 400 tacos per day, flour and corn, with vegetarian and vegan lines. Kolaches added Sunday.
-- Coffee: Doxa barista coffee bar Saturday and Sunday, heavily praised in attendee feedback and worth the cost; manage the line so people do not miss talk openings. Houndstooth urn pickup is the alternative: urns picked up at 7:15 AM, returned after lunch. Central Market coffee boxes cover Friday.
+- Breakfast: Tacodeli taco delivery Saturday and Sunday before doors, roughly 1.5 to 2 tacos per attendee per day, flour and corn, with vegetarian and vegan lines. Kolaches added Sunday.
+- Coffee: Doxa barista coffee bar Saturday and Sunday, heavily praised in attendee feedback and worth the cost; manage the line so people do not miss talk openings. Houndstooth urn pickup is the alternative: urns picked up before doors, returned after lunch. Central Market coffee boxes cover Friday.
 - Friday breakfast: Central Market muffins, fruit, and coffee boxes.
 - Afternoon break: Central Market platters (cookies, mini tartlets) delivered mid-afternoon.
 - Bulk snacks, sodas, and paper goods: Costco + HEB runs.
 - Ice: ordered online. This works well; repeated store runs are the fallback restock mechanism and eat organizer time.
 
-Delivery windows, written into the plan sheet: 7:30-8:00 AM for breakfast, 2:00-2:30 PM for the afternoon break.
+Delivery windows go in the plan sheet: breakfast before doors open, the afternoon platters during the mid-afternoon break. Set the exact clock times with each vendor every year; they shift with that year's schedule.
 Get quotes carefully: some vendor sites show menu pricing, and catering pricing only appears once you start an order.
 
 ## The Catering Plan Sheet
@@ -68,7 +68,7 @@ Count leftovers every year and feed the counts back into next year's plan.
 Known calibration data:
 
 - Diet and zero sodas, sparkling water, and fruit are the hits; among regular sodas, Coke goes fastest and Dr Pepper gets left over.
-- Expect 40-50 lb of bananas to go over the weekend.
+- Bananas go fast: budget about one per two to three attendees per day (a full-capacity weekend runs through 40-50 lb).
 - Muffins and kolaches tend to be over-ordered; order fewer.
 - Buy light on Friday to gauge the year's preferences, then buy in bulk for the weekend.
 - Any food put out is gone within an hour, except one unpredictable "forbidden item of the year."
@@ -76,10 +76,10 @@ Known calibration data:
 
 ## Day-Of Mechanics
 
-- [ ] 7:15 AM coffee pickup (if using urn pickup); return urns after lunch
-- [ ] 7:30 AM breakfast delivery; food set up by 8:00 AM
+- [ ] Coffee pickup before doors (if using urn pickup); return urns after lunch
+- [ ] Breakfast delivery before doors; food set up before registration opens
 - [ ] Tear down food after breakfast and after the afternoon snack window; food out for an hour is food gone
-- [ ] Afternoon delivery arrives 2:00-2:30 PM; have a table clear for it
+- [ ] Afternoon delivery arrives during the mid-afternoon break; have a table clear for it
 - [ ] Restock via store runs as needed; the shopping tab names who runs
 - [ ] Leftover policy, decided in advance: give leftovers to library staff
 - [ ] Count leftovers at teardown for next year's calibration

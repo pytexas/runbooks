@@ -15,9 +15,9 @@ Friday is the light program day; use it to stage everything the weekend needs.
 ### Early Morning (6:00-9:00)
 
 - [ ] 6:00 venue access; Conference Chair arrives at open
-- [ ] 7:15 coffee pickup
+- [ ] Coffee pickup before doors
 - [ ] Friday breakfast out (Central Market muffins, fruit, coffee boxes); buy light Friday to gauge preferences, then bulk-buy for the weekend
-- [ ] 8:00 registration setup, food setup, linens layout
+- [ ] Registration, food, and linens setup before doors
 - [ ] Speaker tech checks for anyone on site before 9:00 (the other window is lunch)
 
 Registration desk setup:
@@ -80,9 +80,9 @@ Held at a nearby rented space with catering brought in (e.g. a rooftop terrace).
 ### Daily Rhythm
 
 - 6:00 venue access
-- 7:15 coffee pickup
-- 7:30 food delivery (tacos Saturday, kolaches Sunday)
-- 8:00 registration opens; food setup; everything set by 8:00 exactly
+- Coffee pickup before doors
+- Food delivery before doors (tacos Saturday, kolaches Sunday)
+- 8:00 registration opens; food setup; everything set before doors
 - 8:55 chair sets up opening remarks; sponsor chaser rounds up pitch presenters
 - 9:00 opening remarks (10 min)
 - 9:10 sponsor pitches by tier (Platinum Saturday, Gold/Silver Sunday)
@@ -90,7 +90,7 @@ Held at a nearby rented space with catering brought in (e.g. a rooftop terrace).
 - Talks in 30-minute blocks: 25-minute talk plus 5 minutes of combined Q&A and next-speaker setup
 - 20-minute sponsored talk immediately before lunch (Platinum benefit)
 - Lunch 12:30-2:00, not catered: organizer-led group walks
-- Central Market afternoon-break delivery ~2:25-2:55
+- Central Market afternoon-break delivery during the mid-afternoon break
 - Door prizes scattered through the day: after the keynote, before lunch, mid-afternoon, end of day; entry via Google Form
 - Saturday close: sponsored workshop 4:30-6:00, 30 minutes of lightning talks, door prizes, depart for the network event ~6:35
 - Sunday close: lightning talks ~4:45, closing remarks with door prizes ~5:25, cleanup and out by 5:45 (hard out at 7:00)

@@ -31,7 +31,7 @@ Recurring tasks embedded in the lanes:
 - Check on sponsors twice daily
 - Food setup and teardown around breaks
 - Coffee pickup and urn return
-- Catering arrival windows (breakfast 7:30-8:00, afternoon ~2:25-2:55)
+- Catering arrival windows (breakfast before doors, afternoon during the mid-afternoon break; set exact times with each vendor per year)
 - Store runs (Friday Costco + HEB trip during the morning tutorial)
 
 ## Sponsor Pitch Slots
