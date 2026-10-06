@@ -118,12 +118,41 @@ When adding new runbooks:
 3. Run `just validate` before committing to ensure strict validation passes
 4. Check links with `just link-check` to avoid CI failures
 
-## Navigation Management
+### Publication Policy
 
-The site uses a manual navigation structure in `mkdocs.yml`. Many sections are commented out, indicating planned future content:
-- Conference runbooks section has extensive placeholder structure for process documentation
-- Role descriptions are actively maintained while procedural runbooks are planned
-- Use the commented navigation as a guide for organizing new content
+This site is public. Content under `docs/` must follow these rules:
+- No dollar amounts. Express money as percent-of-budget or relative magnitude.
+- No personal contact information: no personal emails, phone numbers, or name+email pairings. Role addresses like sponsorship@pytexas.org are fine.
+- Names are limited to conference chairs (the Past Chairs rosters on role pages) and publicly known people such as speakers. No vendor reps, no unconfirmed keynote or speaker prospects.
+- No private Google Doc, Sheet, or Form URLs or IDs. Point to artifacts by name in "the year's Drive folder".
+- Vendor, venue, and tool names are encouraged.
+- Asana CSVs ship with an empty Assignee column.
+- Verify factual claims (dates, offsets, processes) against the conference record in the PyTexas Google Drive rather than carrying forward folklore.
+
+### Conference Runbooks Organization
+
+The `docs/conference/runbooks/` directory contains two complementary types of documentation:
+
+**Topic-Based Runbooks** (e.g., `cfp.md`, `sponsorship.md`, `venue.md`, `av.md`, `discord.md`):
+- Deep-dive guides focused on specific operational areas
+- Detailed procedures for individual tasks
+
+**Committee-Based Runbooks** (e.g., `marketing-committee-runbook.md`, `speaker-committee-runbook.md`):
+- End-to-end workflows for each committee
+- Organized chronologically from Month -12 through post-conference
+- Include lessons learned from previous years' retrospectives
+- Use relative dates (Month -X, Week -Y, Day -Z) for year-over-year reusability
+
+Roles live under `docs/conference/roles/` and follow the six-unit structure in use since the 2026 cycle: Conference Chair plus Speaker, Finance, Marketing, Venue, and Community leads.
+
+**Supporting Documentation**:
+- `conference-master-timeline.md`: full-cycle chronological view across all committees, with a phase-band overview and per-committee gantt
+- `day-of-operations-guide.md`: conference execution procedures for Friday-Sunday (Friday is also setup day; there is no Thursday venue access)
+- `run-of-show.md`: minute-by-minute schedule template
+- `budget-planning-template.md`: percentage-based budget planning
+- `next-year-planning.md`: the in-cycle workstream for securing next year's venue and dates
+- `onboarding-new-lead.md`: how a new committee lead gets up to speed
+- `asana-*.csv`: task import files for Asana project management (Assignee column intentionally empty)
 
 ## Development Setup Requirements
 

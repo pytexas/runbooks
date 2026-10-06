@@ -1,1 +1,5 @@
 localhost:8000
+# Google Docs / Sheets / Drive: auth-gated internal planning docs
+docs.google.com
+drive.google.com
+forms.gle
